@@ -1,0 +1,1278 @@
+prov_code,prov_name,cant_code,cant_name,parr_code,parr_name,urbana
+1.0,Azuay,101.0,Cuenca,10101.0,Bellavista,True
+1.0,Azuay,101.0,Cuenca,10102.0,Cañaribamba,True
+1.0,Azuay,101.0,Cuenca,10103.0,El Batán,True
+1.0,Azuay,101.0,Cuenca,10104.0,El Sagrario,True
+1.0,Azuay,101.0,Cuenca,10105.0,El Vecino,True
+1.0,Azuay,101.0,Cuenca,10106.0,Gil Ramírez Dávalos,True
+1.0,Azuay,101.0,Cuenca,10107.0,Huaynacápac,True
+1.0,Azuay,101.0,Cuenca,10108.0,Machángara,True
+1.0,Azuay,101.0,Cuenca,10109.0,Monay,True
+1.0,Azuay,101.0,Cuenca,10110.0,San Blas,True
+1.0,Azuay,101.0,Cuenca,10111.0,San Sebastián,True
+1.0,Azuay,101.0,Cuenca,10112.0,Sucre,True
+1.0,Azuay,101.0,Cuenca,10113.0,Totoracocha,True
+1.0,Azuay,101.0,Cuenca,10114.0,Yanuncay,True
+1.0,Azuay,101.0,Cuenca,10115.0,Hermano Miguel,True
+1.0,Azuay,101.0,Cuenca,10150.0,"Cuenca, Cabecera Cantonal Y Capital Provincial.",True
+1.0,Azuay,101.0,Cuenca,10151.0,Baños,False
+1.0,Azuay,101.0,Cuenca,10152.0,Cumbe,False
+1.0,Azuay,101.0,Cuenca,10153.0,Chaucha,False
+1.0,Azuay,101.0,Cuenca,10154.0,Checa (Jidcay),False
+1.0,Azuay,101.0,Cuenca,10155.0,Chiquintad,False
+1.0,Azuay,101.0,Cuenca,10156.0,Llacao,False
+1.0,Azuay,101.0,Cuenca,10157.0,Molleturo,False
+1.0,Azuay,101.0,Cuenca,10158.0,Nulti,False
+1.0,Azuay,101.0,Cuenca,10159.0,Octavio Cordero Palacios (Sta. Rosa),False
+1.0,Azuay,101.0,Cuenca,10160.0,Paccha,False
+1.0,Azuay,101.0,Cuenca,10161.0,Quingeo,False
+1.0,Azuay,101.0,Cuenca,10162.0,Ricaurte,False
+1.0,Azuay,101.0,Cuenca,10163.0,San Joaquin,False
+1.0,Azuay,101.0,Cuenca,10164.0,Santa Ana,False
+1.0,Azuay,101.0,Cuenca,10165.0,Sayausi,False
+1.0,Azuay,101.0,Cuenca,10166.0,Sidcay,False
+1.0,Azuay,101.0,Cuenca,10167.0,Sinincay,False
+1.0,Azuay,101.0,Cuenca,10168.0,Tarqui,False
+1.0,Azuay,101.0,Cuenca,10169.0,Turi,False
+1.0,Azuay,101.0,Cuenca,10170.0,Valle,False
+1.0,Azuay,101.0,Cuenca,10171.0,Victoria Del Portete (Irquis),False
+1.0,Azuay,102.0,Giron,10250.0,Giron,True
+1.0,Azuay,102.0,Giron,10251.0,Asuncion,False
+1.0,Azuay,102.0,Giron,10252.0,San Gerardo,False
+1.0,Azuay,103.0,Gualaceo,10350.0,Gualaceo,True
+1.0,Azuay,103.0,Gualaceo,10352.0,Daniel Cordova Toral (El Oriente),False
+1.0,Azuay,103.0,Gualaceo,10353.0,Jadan,False
+1.0,Azuay,103.0,Gualaceo,10354.0,Mariano Moreno,False
+1.0,Azuay,103.0,Gualaceo,10356.0,Remigio Crespo Toral (Gulag),False
+1.0,Azuay,103.0,Gualaceo,10357.0,San Juan,False
+1.0,Azuay,103.0,Gualaceo,10358.0,Zhidmad,False
+1.0,Azuay,103.0,Gualaceo,10359.0,Luis Cordero Vega,False
+1.0,Azuay,103.0,Gualaceo,10360.0,Simon Bolivar (Cab. En Gañanzol),False
+1.0,Azuay,104.0,Nabon,10450.0,Nabon,True
+1.0,Azuay,104.0,Nabon,10451.0,Cochapata,False
+1.0,Azuay,104.0,Nabon,10452.0,El Progreso (Cab. En Zhota),False
+1.0,Azuay,104.0,Nabon,10453.0,Las Nieves (Chaya),False
+1.0,Azuay,105.0,Paute,10550.0,Paute,True
+1.0,Azuay,105.0,Paute,10552.0,Bulan (Jose Victor Izquierdo),False
+1.0,Azuay,105.0,Paute,10553.0,Chican (Guillermo Ortega),False
+1.0,Azuay,105.0,Paute,10554.0,El Cabo,False
+1.0,Azuay,105.0,Paute,10556.0,Guarainag,False
+1.0,Azuay,105.0,Paute,10559.0,San Cristobal (Carlos Ordoñez Lazo),False
+1.0,Azuay,105.0,Paute,10561.0,Tomebamba,False
+1.0,Azuay,105.0,Paute,10562.0,Dug Dug,False
+1.0,Azuay,106.0,Pucara,10650.0,Pucara,True
+1.0,Azuay,106.0,Pucara,10652.0,San Rafael De Sharug,False
+1.0,Azuay,107.0,San Fernando,10750.0,San Fernando,True
+1.0,Azuay,107.0,San Fernando,10751.0,Chumblin,False
+1.0,Azuay,108.0,Santa Isabel,10850.0,Santa Isabel (Chaguarurco),True
+1.0,Azuay,108.0,Santa Isabel,10851.0,Abdon Calderon (La Union),False
+1.0,Azuay,108.0,Santa Isabel,10852.0,El Carmen De Pijili,False
+1.0,Azuay,108.0,Santa Isabel,10853.0,Zhaglli (Shaglli ),False
+1.0,Azuay,108.0,Santa Isabel,10854.0,San Salvador De Cañaribamba,False
+1.0,Azuay,109.0,Sigsig,10950.0,Sigsig,True
+1.0,Azuay,109.0,Sigsig,10951.0,Cuchil (Cutchil),False
+1.0,Azuay,109.0,Sigsig,10952.0,Gima,False
+1.0,Azuay,109.0,Sigsig,10953.0,Guel,False
+1.0,Azuay,109.0,Sigsig,10954.0,Ludo,False
+1.0,Azuay,109.0,Sigsig,10955.0,San Bartolome,False
+1.0,Azuay,109.0,Sigsig,10956.0,San Jose De Raranga,False
+1.0,Azuay,110.0,Oña,11050.0,San Felipe De Oña,True
+1.0,Azuay,110.0,Oña,11051.0,Susudel,False
+1.0,Azuay,111.0,Chordeleg,11150.0,Chordeleg,True
+1.0,Azuay,111.0,Chordeleg,11151.0,Principal,False
+1.0,Azuay,111.0,Chordeleg,11152.0,La Union,False
+1.0,Azuay,111.0,Chordeleg,11153.0,Luis Galarza Orellana (Cab. En Delegsol),False
+1.0,Azuay,111.0,Chordeleg,11154.0,San Martin De Puzhio,False
+1.0,Azuay,112.0,El Pan,11250.0,El Pan,True
+1.0,Azuay,112.0,El Pan,11253.0,San Vicente,False
+1.0,Azuay,113.0,Sevilla De Oro,11350.0,Sevilla De Oro,True
+1.0,Azuay,113.0,Sevilla De Oro,11351.0,Amaluza,False
+1.0,Azuay,113.0,Sevilla De Oro,11352.0,Palmas,False
+1.0,Azuay,114.0,Guachapala,11450.0,Guachapala,True
+1.0,Azuay,115.0,Camilo Ponce Enriquez,11550.0,Camilo Ponce Enriquez,True
+2.0,Bolivar,201.0,Guaranda,20101.0,Ángel Polibio Cháves,True
+2.0,Bolivar,201.0,Guaranda,20102.0,Gabriel Ignacio Veintimilla,True
+2.0,Bolivar,201.0,Guaranda,20103.0,Guanujo,True
+2.0,Bolivar,201.0,Guaranda,20150.0,"Guaranda, Cabecera Cantonal Y Capital Provincial",True
+2.0,Bolivar,201.0,Guaranda,20151.0,Facundo Vela,False
+2.0,Bolivar,201.0,Guaranda,20153.0,Julio Moreno (Catanahuan Grande),False
+2.0,Bolivar,201.0,Guaranda,20155.0,Salinas,False
+2.0,Bolivar,201.0,Guaranda,20156.0,San Lorenzo,False
+2.0,Bolivar,201.0,Guaranda,20157.0,San Simon (Yacoto),False
+2.0,Bolivar,201.0,Guaranda,20158.0,Santa Fe (Santa Fe),False
+2.0,Bolivar,201.0,Guaranda,20159.0,Simiatug,False
+2.0,Bolivar,201.0,Guaranda,20160.0,San Luis De Pambil,False
+2.0,Bolivar,202.0,Chillanes,20250.0,Chillanes,True
+2.0,Bolivar,202.0,Chillanes,20251.0,San Jose Del Tambo (Tambopamba),False
+2.0,Bolivar,203.0,Chimbo,20350.0,San Jose De Chimbo,True
+2.0,Bolivar,203.0,Chimbo,20351.0,Asuncion (Asancoto),False
+2.0,Bolivar,203.0,Chimbo,20353.0,Magdalena (Chapacoto),False
+2.0,Bolivar,203.0,Chimbo,20354.0,San Sebastian,False
+2.0,Bolivar,203.0,Chimbo,20355.0,Telimbela,False
+2.0,Bolivar,204.0,Echeandia,20450.0,Echeandia,True
+2.0,Bolivar,205.0,San Miguel,20550.0,San Miguel,True
+2.0,Bolivar,205.0,San Miguel,20551.0,Balsapamba,False
+2.0,Bolivar,205.0,San Miguel,20552.0,Bilovan,False
+2.0,Bolivar,205.0,San Miguel,20553.0,Regulo De Mora,False
+2.0,Bolivar,205.0,San Miguel,20554.0,San Pablo (San Pablo De Atenas),False
+2.0,Bolivar,205.0,San Miguel,20555.0,Santiago,False
+2.0,Bolivar,205.0,San Miguel,20556.0,San Vicente,False
+2.0,Bolivar,206.0,Caluma,20650.0,Caluma,True
+2.0,Bolivar,207.0,Las Naves,20701.0,Las Mercedes,True
+2.0,Bolivar,207.0,Las Naves,20702.0,Las Naves,True
+3.0,Cañar,301.0,Azogues,30101.0,Aurelio Bayas Martínez,True
+3.0,Cañar,301.0,Azogues,30102.0,Azogues,True
+3.0,Cañar,301.0,Azogues,30103.0,Borrero,True
+3.0,Cañar,301.0,Azogues,30104.0,San Francisco,True
+3.0,Cañar,301.0,Azogues,30151.0,Cojitambo,False
+3.0,Cañar,301.0,Azogues,30153.0,Guapan,False
+3.0,Cañar,301.0,Azogues,30154.0,Javier Loyola (Chuquipata),False
+3.0,Cañar,301.0,Azogues,30155.0,Luis Cordero,False
+3.0,Cañar,301.0,Azogues,30156.0,Pindilig,False
+3.0,Cañar,301.0,Azogues,30157.0,Rivera,False
+3.0,Cañar,301.0,Azogues,30158.0,San Miguel,False
+3.0,Cañar,301.0,Azogues,30160.0,Taday,False
+3.0,Cañar,302.0,Biblian,30250.0,Biblian,True
+3.0,Cañar,302.0,Biblian,30251.0,Nazon (Cab. En Pampa De Dominguez),False
+3.0,Cañar,302.0,Biblian,30252.0,San Francisco De Sageo,False
+3.0,Cañar,302.0,Biblian,30253.0,Turupamba,False
+3.0,Cañar,302.0,Biblian,30254.0,Jerusalen,False
+3.0,Cañar,303.0,Cañar,30350.0,Cañar,True
+3.0,Cañar,303.0,Cañar,30351.0,Chontamarca,False
+3.0,Cañar,303.0,Cañar,30352.0,Chorocopte,False
+3.0,Cañar,303.0,Cañar,30353.0,General Morales (Socarte),False
+3.0,Cañar,303.0,Cañar,30354.0,Gualleturo,False
+3.0,Cañar,303.0,Cañar,30355.0,Honorato Vasquez (Tambo Viejo),False
+3.0,Cañar,303.0,Cañar,30356.0,Ingapirca,False
+3.0,Cañar,303.0,Cañar,30357.0,Juncal,False
+3.0,Cañar,303.0,Cañar,30358.0,San Antonio,False
+3.0,Cañar,303.0,Cañar,30361.0,Zhud,False
+3.0,Cañar,303.0,Cañar,30362.0,Ventura,False
+3.0,Cañar,303.0,Cañar,30363.0,Ducur,False
+3.0,Cañar,304.0,La Troncal,30450.0,La Troncal,True
+3.0,Cañar,304.0,La Troncal,30451.0,Manuel J. Calle,False
+3.0,Cañar,304.0,La Troncal,30452.0,Pancho Negro,False
+3.0,Cañar,305.0,El Tambo,30550.0,El Tambo,True
+3.0,Cañar,306.0,Deleg,30650.0,Deleg,True
+3.0,Cañar,306.0,Deleg,30651.0,Solano,False
+3.0,Cañar,307.0,Suscal,30750.0,Suscal,True
+4.0,Carchi,401.0,Tulcan,40101.0,González Suárez,True
+4.0,Carchi,401.0,Tulcan,40102.0,Tulcán,True
+4.0,Carchi,401.0,Tulcan,40150.0,"Tulcan, Cabecera Cantonal",True
+4.0,Carchi,401.0,Tulcan,40151.0,El Carmelo (El Pun),False
+4.0,Carchi,401.0,Tulcan,40153.0,Julio Andrade (Orejuela),False
+4.0,Carchi,401.0,Tulcan,40154.0,Maldonado,False
+4.0,Carchi,401.0,Tulcan,40155.0,Pioter,False
+4.0,Carchi,401.0,Tulcan,40156.0,Tobar Donoso (La Bocana De Camumbi),False
+4.0,Carchi,401.0,Tulcan,40157.0,Tufiño,False
+4.0,Carchi,401.0,Tulcan,40158.0,Urbina (Taya),False
+4.0,Carchi,401.0,Tulcan,40159.0,El Chical,False
+4.0,Carchi,401.0,Tulcan,40161.0,Santa Martha De Cuba,False
+4.0,Carchi,402.0,Bolivar,40250.0,Bolivar,True
+4.0,Carchi,402.0,Bolivar,40251.0,Garcia Moreno,False
+4.0,Carchi,402.0,Bolivar,40252.0,Los Andes,False
+4.0,Carchi,402.0,Bolivar,40253.0,Monte Olivo,False
+4.0,Carchi,402.0,Bolivar,40254.0,San Vicente De Pusir,False
+4.0,Carchi,402.0,Bolivar,40255.0,San Rafael,False
+4.0,Carchi,403.0,Espejo,40301.0,El Ángel,True
+4.0,Carchi,403.0,Espejo,40302.0,27 De Septiembre,True
+4.0,Carchi,403.0,Espejo,40351.0,El Goaltal,False
+4.0,Carchi,403.0,Espejo,40352.0,La Libertad (Alizo),False
+4.0,Carchi,403.0,Espejo,40353.0,San Isidro,False
+4.0,Carchi,404.0,Mira,40450.0,Mira (Chontahuasi),True
+4.0,Carchi,404.0,Mira,40451.0,Concepcion,False
+4.0,Carchi,404.0,Mira,40452.0,Jijon Y Caamaño (Cab. En Rio Blanco),False
+4.0,Carchi,404.0,Mira,40453.0,Juan Montalvo (San Ignacio De Quil),False
+4.0,Carchi,405.0,Montufar,40501.0,González Suárez,True
+4.0,Carchi,405.0,Montufar,40502.0,San José,True
+4.0,Carchi,405.0,Montufar,40551.0,Cristobal Colon,False
+4.0,Carchi,405.0,Montufar,40552.0,Chitan De Navarrete,False
+4.0,Carchi,405.0,Montufar,40553.0,Fernandez Salvador,False
+4.0,Carchi,405.0,Montufar,40554.0,La Paz,False
+4.0,Carchi,405.0,Montufar,40555.0,Piartal,False
+4.0,Carchi,406.0,San Pedro De Huaca,40650.0,Huaca,True
+4.0,Carchi,406.0,San Pedro De Huaca,40651.0,Mariscal Sucre,False
+5.0,Cotopaxi,501.0,Latacunga,50101.0,Eloy Alfaro  (San Felipe),True
+5.0,Cotopaxi,501.0,Latacunga,50102.0,Ignacio Flores (Parque Flores),True
+5.0,Cotopaxi,501.0,Latacunga,50103.0,Juan Montalvo (San Sebastián),True
+5.0,Cotopaxi,501.0,Latacunga,50104.0,La Matriz,True
+5.0,Cotopaxi,501.0,Latacunga,50105.0,San Buenaventura,True
+5.0,Cotopaxi,501.0,Latacunga,50150.0,"Latacunga, Cabecera Cantonal Y Capital Provincial",True
+5.0,Cotopaxi,501.0,Latacunga,50151.0,Alaques (Alaquez),False
+5.0,Cotopaxi,501.0,Latacunga,50152.0,Belisario Quevedo (Guanailin),False
+5.0,Cotopaxi,501.0,Latacunga,50153.0,Guaitacama (Guaytacama),False
+5.0,Cotopaxi,501.0,Latacunga,50154.0,Joseguango Bajo,False
+5.0,Cotopaxi,501.0,Latacunga,50156.0,Mulalo,False
+5.0,Cotopaxi,501.0,Latacunga,50157.0,11 De Noviembre (Ilinchisi),False
+5.0,Cotopaxi,501.0,Latacunga,50158.0,Poalo,False
+5.0,Cotopaxi,501.0,Latacunga,50159.0,San Juan De Pastocalle,False
+5.0,Cotopaxi,501.0,Latacunga,50161.0,Tanicuchi,False
+5.0,Cotopaxi,501.0,Latacunga,50162.0,Toacaso,False
+5.0,Cotopaxi,502.0,La Mana,50201.0,El Carmen,True
+5.0,Cotopaxi,502.0,La Mana,50202.0,La Maná,True
+5.0,Cotopaxi,502.0,La Mana,50203.0,El Triunfo,True
+5.0,Cotopaxi,502.0,La Mana,50251.0,Guasaganda (Cab. En Guasaganda Centro),False
+5.0,Cotopaxi,502.0,La Mana,50252.0,Pucayacu,False
+5.0,Cotopaxi,503.0,Pangua,50350.0,El Corazon,True
+5.0,Cotopaxi,503.0,Pangua,50351.0,Moraspungo,False
+5.0,Cotopaxi,503.0,Pangua,50352.0,Pinllopata,False
+5.0,Cotopaxi,503.0,Pangua,50353.0,Ramon Campaña,False
+5.0,Cotopaxi,504.0,Pujili,50450.0,Pujili,True
+5.0,Cotopaxi,504.0,Pujili,50451.0,Angamarca,False
+5.0,Cotopaxi,504.0,Pujili,50453.0,Guangaje,False
+5.0,Cotopaxi,504.0,Pujili,50455.0,La Victoria,False
+5.0,Cotopaxi,504.0,Pujili,50456.0,Pilalo,False
+5.0,Cotopaxi,504.0,Pujili,50457.0,Tingo,False
+5.0,Cotopaxi,504.0,Pujili,50458.0,Zumbahua,False
+5.0,Cotopaxi,505.0,Salcedo,50550.0,San Miguel,True
+5.0,Cotopaxi,505.0,Salcedo,50551.0,Antonio Jose Holguin (Santa Lucia),False
+5.0,Cotopaxi,505.0,Salcedo,50552.0,Cusubamba,False
+5.0,Cotopaxi,505.0,Salcedo,50553.0,Mulalillo,False
+5.0,Cotopaxi,505.0,Salcedo,50554.0,Mulliquindil (Santa Ana),False
+5.0,Cotopaxi,505.0,Salcedo,50555.0,Pansaleo,False
+5.0,Cotopaxi,506.0,Saquisili,50650.0,Saquisili,True
+5.0,Cotopaxi,506.0,Saquisili,50651.0,Canchagua,False
+5.0,Cotopaxi,506.0,Saquisili,50652.0,Chantilin,False
+5.0,Cotopaxi,506.0,Saquisili,50653.0,Cochapamba,False
+5.0,Cotopaxi,507.0,Sigchos,50750.0,Sigchos,True
+5.0,Cotopaxi,507.0,Sigchos,50751.0,Chugchillan,False
+5.0,Cotopaxi,507.0,Sigchos,50752.0,Isinlivi,False
+5.0,Cotopaxi,507.0,Sigchos,50753.0,Las Pampas,False
+5.0,Cotopaxi,507.0,Sigchos,50754.0,Palo Quemado,False
+6.0,Chimborazo,601.0,Riobamba,60101.0,Lizarzaburu,True
+6.0,Chimborazo,601.0,Riobamba,60102.0,Maldonado,True
+6.0,Chimborazo,601.0,Riobamba,60103.0,Velasco,True
+6.0,Chimborazo,601.0,Riobamba,60104.0,Veloz,True
+6.0,Chimborazo,601.0,Riobamba,60105.0,Yaruquíes,True
+6.0,Chimborazo,601.0,Riobamba,60151.0,Cacha (Cab. En Machangara),False
+6.0,Chimborazo,601.0,Riobamba,60152.0,Calpi,False
+6.0,Chimborazo,601.0,Riobamba,60153.0,Cubijies,False
+6.0,Chimborazo,601.0,Riobamba,60154.0,Flores,False
+6.0,Chimborazo,601.0,Riobamba,60155.0,Lican,False
+6.0,Chimborazo,601.0,Riobamba,60156.0,Licto,False
+6.0,Chimborazo,601.0,Riobamba,60157.0,Pungala,False
+6.0,Chimborazo,601.0,Riobamba,60158.0,Punin,False
+6.0,Chimborazo,601.0,Riobamba,60159.0,Quimiag,False
+6.0,Chimborazo,601.0,Riobamba,60160.0,San Juan,False
+6.0,Chimborazo,601.0,Riobamba,60161.0,San Luis,False
+6.0,Chimborazo,602.0,Alausi,60250.0,Alausi,True
+6.0,Chimborazo,602.0,Alausi,60251.0,Achupallas,False
+6.0,Chimborazo,602.0,Alausi,60253.0,Guasuntos,False
+6.0,Chimborazo,602.0,Alausi,60254.0,Huigra,False
+6.0,Chimborazo,602.0,Alausi,60255.0,Multitud,False
+6.0,Chimborazo,602.0,Alausi,60256.0,Pistishi (Nariz Del Diablo),False
+6.0,Chimborazo,602.0,Alausi,60257.0,Pumallacta,False
+6.0,Chimborazo,602.0,Alausi,60258.0,Sevilla,False
+6.0,Chimborazo,602.0,Alausi,60259.0,Sibambe,False
+6.0,Chimborazo,602.0,Alausi,60260.0,Tixan,False
+6.0,Chimborazo,603.0,Colta,60301.0,Cajabamba,True
+6.0,Chimborazo,603.0,Colta,60302.0,Sicalpa,True
+6.0,Chimborazo,603.0,Colta,60351.0,Cañi,False
+6.0,Chimborazo,603.0,Colta,60352.0,Columbe,False
+6.0,Chimborazo,603.0,Colta,60353.0,Juan De Velasco (Pangor),False
+6.0,Chimborazo,603.0,Colta,60354.0,Santiago De Quito (Cab. En San Antonio De Quito),False
+6.0,Chimborazo,604.0,Chambo,60450.0,Chambo,True
+6.0,Chimborazo,605.0,Chunchi,60550.0,Chunchi,True
+6.0,Chimborazo,605.0,Chunchi,60551.0,Capzol,False
+6.0,Chimborazo,605.0,Chunchi,60552.0,Compud,False
+6.0,Chimborazo,605.0,Chunchi,60553.0,Gonzol,False
+6.0,Chimborazo,605.0,Chunchi,60554.0,Llagos,False
+6.0,Chimborazo,606.0,Guamote,60650.0,Guamote,True
+6.0,Chimborazo,606.0,Guamote,60651.0,Cebadas,False
+6.0,Chimborazo,606.0,Guamote,60652.0,Palmira,False
+6.0,Chimborazo,607.0,Guano,60701.0,El Rosario,True
+6.0,Chimborazo,607.0,Guano,60702.0,La Matriz,True
+6.0,Chimborazo,607.0,Guano,60751.0,Guanando,False
+6.0,Chimborazo,607.0,Guano,60752.0,Ilapo,False
+6.0,Chimborazo,607.0,Guano,60753.0,La Providencia,False
+6.0,Chimborazo,607.0,Guano,60754.0,San Andres,False
+6.0,Chimborazo,607.0,Guano,60755.0,San Gerardo De Pacaicaguan,False
+6.0,Chimborazo,607.0,Guano,60756.0,San Isidro De Patulu,False
+6.0,Chimborazo,607.0,Guano,60757.0,San Jose Del Chazo,False
+6.0,Chimborazo,607.0,Guano,60758.0,Santa Fe De Galan,False
+6.0,Chimborazo,607.0,Guano,60759.0,Valparaiso,False
+6.0,Chimborazo,608.0,Pallatanga,60850.0,Pallatanga,True
+6.0,Chimborazo,609.0,Penipe,60950.0,Penipe,True
+6.0,Chimborazo,609.0,Penipe,60951.0,El Altar,False
+6.0,Chimborazo,609.0,Penipe,60952.0,Matus,False
+6.0,Chimborazo,609.0,Penipe,60953.0,Puela,False
+6.0,Chimborazo,609.0,Penipe,60954.0,San Antonio De Bayushig,False
+6.0,Chimborazo,609.0,Penipe,60955.0,La Candelaria,False
+6.0,Chimborazo,609.0,Penipe,60956.0,Bilbao (Cab. En Quilluyacu),False
+6.0,Chimborazo,610.0,Cumanda,61050.0,Cumanda,True
+7.0,El Oro,701.0,Machala,70101.0,La Providencia,True
+7.0,El Oro,701.0,Machala,70102.0,Machala,True
+7.0,El Oro,701.0,Machala,70103.0,Puerto Bolívar,True
+7.0,El Oro,701.0,Machala,70104.0,Nueve De Mayo,True
+7.0,El Oro,701.0,Machala,70105.0,El Cambio,True
+7.0,El Oro,701.0,Machala,70150.0,"Machala, Cabecera Cantonal Y Capital Provincial",True
+7.0,El Oro,701.0,Machala,70152.0,El Retiro,False
+7.0,El Oro,702.0,Arenillas,70250.0,Arenillas,True
+7.0,El Oro,702.0,Arenillas,70251.0,Chacras,False
+7.0,El Oro,702.0,Arenillas,70254.0,Palmales,False
+7.0,El Oro,702.0,Arenillas,70255.0,Carcabon,False
+7.0,El Oro,703.0,Atahualpa,70350.0,Paccha,True
+7.0,El Oro,703.0,Atahualpa,70351.0,Ayapamba,False
+7.0,El Oro,703.0,Atahualpa,70352.0,Cordoncillo,False
+7.0,El Oro,703.0,Atahualpa,70353.0,Milagro,False
+7.0,El Oro,703.0,Atahualpa,70354.0,San Jose,False
+7.0,El Oro,703.0,Atahualpa,70355.0,San Juan De Cerro Azul,False
+7.0,El Oro,704.0,Balsas,70450.0,Balsas,True
+7.0,El Oro,704.0,Balsas,70451.0,Bellamaria,False
+7.0,El Oro,705.0,Chilla,70550.0,Chilla,True
+7.0,El Oro,706.0,El Guabo,70650.0,El Guabo,True
+7.0,El Oro,706.0,El Guabo,70651.0,Barbones (Sucre),False
+7.0,El Oro,706.0,El Guabo,70652.0,La Iberia,False
+7.0,El Oro,706.0,El Guabo,70653.0,Tendales (Cab. En Puerto Tendales),False
+7.0,El Oro,706.0,El Guabo,70654.0,Rio Bonito,False
+7.0,El Oro,707.0,Huaquillas,70701.0,Ecuador,True
+7.0,El Oro,707.0,Huaquillas,70702.0,El Paraíso,True
+7.0,El Oro,707.0,Huaquillas,70703.0,Hualtaco,True
+7.0,El Oro,707.0,Huaquillas,70704.0,Milton Reyes,True
+7.0,El Oro,707.0,Huaquillas,70705.0,Unión Lojana,True
+7.0,El Oro,707.0,Huaquillas,70750.0,"Huaquillas, Cabecera Cantonal",True
+7.0,El Oro,708.0,Marcabeli,70850.0,Marcabeli,True
+7.0,El Oro,708.0,Marcabeli,70851.0,El Ingenio,False
+7.0,El Oro,709.0,Pasaje,70901.0,Bolívar,True
+7.0,El Oro,709.0,Pasaje,70902.0,Loma De Franco,True
+7.0,El Oro,709.0,Pasaje,70903.0,Ochoa León (Matriz),True
+7.0,El Oro,709.0,Pasaje,70904.0,Tres Cerritos,True
+7.0,El Oro,709.0,Pasaje,70951.0,Buenavista,False
+7.0,El Oro,709.0,Pasaje,70952.0,Casacay,False
+7.0,El Oro,709.0,Pasaje,70953.0,La Peaña,False
+7.0,El Oro,709.0,Pasaje,70954.0,Progreso,False
+7.0,El Oro,709.0,Pasaje,70955.0,Uzhcurrumi,False
+7.0,El Oro,709.0,Pasaje,70956.0,Cañaquemada,False
+7.0,El Oro,710.0,Piñas,71001.0,La Matriz,True
+7.0,El Oro,710.0,Piñas,71002.0,La Susaya,True
+7.0,El Oro,710.0,Piñas,71003.0,Piñas Grande,True
+7.0,El Oro,710.0,Piñas,71050.0,"Piñas, Cabecera Cantonal",True
+7.0,El Oro,710.0,Piñas,71051.0,Capiro (Cab. En La Capilla De Capiro),False
+7.0,El Oro,710.0,Piñas,71052.0,La Bocana,False
+7.0,El Oro,710.0,Piñas,71053.0,Moromoro (Cab. En El Vado),False
+7.0,El Oro,710.0,Piñas,71054.0,Piedras,False
+7.0,El Oro,710.0,Piñas,71055.0,San Roque (Ambrosio Maldonado),False
+7.0,El Oro,710.0,Piñas,71056.0,Saracay,False
+7.0,El Oro,711.0,Portovelo,71150.0,Portovelo,True
+7.0,El Oro,711.0,Portovelo,71151.0,Curtincapa,False
+7.0,El Oro,711.0,Portovelo,71152.0,Morales,False
+7.0,El Oro,711.0,Portovelo,71153.0,Salati,False
+7.0,El Oro,712.0,Santa Rosa,71201.0,Santa Rosa,True
+7.0,El Oro,712.0,Santa Rosa,71202.0,Puerto Jelí,True
+7.0,El Oro,712.0,Santa Rosa,71203.0,Balneario Jambelí (Satélite),True
+7.0,El Oro,712.0,Santa Rosa,71204.0,Jumón (Satélite),True
+7.0,El Oro,712.0,Santa Rosa,71205.0,Nuevo Santa Rosa,True
+7.0,El Oro,712.0,Santa Rosa,71250.0,"Santa Rosa, Cabecera Cantonal",True
+7.0,El Oro,712.0,Santa Rosa,71251.0,Bellavista,False
+7.0,El Oro,712.0,Santa Rosa,71252.0,Jambeli,False
+7.0,El Oro,712.0,Santa Rosa,71253.0,La Avanzada,False
+7.0,El Oro,712.0,Santa Rosa,71254.0,San Antonio,False
+7.0,El Oro,712.0,Santa Rosa,71255.0,Torata,False
+7.0,El Oro,712.0,Santa Rosa,71256.0,Victoria,False
+7.0,El Oro,712.0,Santa Rosa,71257.0,Bellamaria,False
+7.0,El Oro,713.0,Zaruma,71350.0,Zaruma,True
+7.0,El Oro,713.0,Zaruma,71351.0,Abañin,False
+7.0,El Oro,713.0,Zaruma,71352.0,Arcapamba,False
+7.0,El Oro,713.0,Zaruma,71353.0,Guanazan,False
+7.0,El Oro,713.0,Zaruma,71354.0,Guizhaguiña,False
+7.0,El Oro,713.0,Zaruma,71355.0,Huertas,False
+7.0,El Oro,713.0,Zaruma,71356.0,Malvas,False
+7.0,El Oro,713.0,Zaruma,71357.0,Muluncay Grande,False
+7.0,El Oro,713.0,Zaruma,71358.0,Sinsao,False
+7.0,El Oro,713.0,Zaruma,71359.0,Salvias,False
+7.0,El Oro,714.0,Las Lajas,71401.0,La Victoria,True
+7.0,El Oro,714.0,Las Lajas,71402.0,Platanillos,True
+7.0,El Oro,714.0,Las Lajas,71403.0,Valle Hermoso,True
+7.0,El Oro,714.0,Las Lajas,71451.0,La Libertad,False
+7.0,El Oro,714.0,Las Lajas,71452.0,El Paraiso,False
+7.0,El Oro,714.0,Las Lajas,71453.0,San Isidro,False
+8.0,Esmeraldas,801.0,Esmeraldas,80101.0,Bartolomé Ruiz (César Franco Carrión),True
+8.0,Esmeraldas,801.0,Esmeraldas,80102.0,5 De Agosto,True
+8.0,Esmeraldas,801.0,Esmeraldas,80103.0,Esmeraldas,True
+8.0,Esmeraldas,801.0,Esmeraldas,80104.0,Luis Tello  (Las Palmas),True
+8.0,Esmeraldas,801.0,Esmeraldas,80105.0,Simón Plata Torres,True
+8.0,Esmeraldas,801.0,Esmeraldas,80150.0,"Esmeraldas, Cabecera Cantonal",True
+8.0,Esmeraldas,801.0,Esmeraldas,80152.0,Camarones (Cab. En San Vicente),False
+8.0,Esmeraldas,801.0,Esmeraldas,80153.0,Coronel Carlos Concha Torres (Cab. En Huele),False
+8.0,Esmeraldas,801.0,Esmeraldas,80154.0,Chinca,False
+8.0,Esmeraldas,801.0,Esmeraldas,80159.0,Majua,False
+8.0,Esmeraldas,801.0,Esmeraldas,80163.0,San Mateo,False
+8.0,Esmeraldas,801.0,Esmeraldas,80165.0,Tabiazo,False
+8.0,Esmeraldas,801.0,Esmeraldas,80166.0,Tachina,False
+8.0,Esmeraldas,801.0,Esmeraldas,80168.0,Vuelta Larga,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80250.0,Valdez (Limones),True
+8.0,Esmeraldas,802.0,Eloy Alfaro,80251.0,Anchayacu,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80252.0,Atahualpa (Cab. En Camarones),False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80253.0,Borbon,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80254.0,La Tola,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80255.0,Luis Vargas Torres (Cab. En Playa De Oro),False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80256.0,Maldonado,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80257.0,Pampanal De Bolivar,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80258.0,San Francisco De Onzole,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80259.0,Santo Domingo De Onzole,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80260.0,Selva Alegre,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80261.0,Telembi,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80262.0,Colon Eloy Del Maria,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80263.0,San Jose De Cayapas,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80264.0,Timbire,False
+8.0,Esmeraldas,802.0,Eloy Alfaro,80265.0,Santa Lucia De Las Peñas,False
+8.0,Esmeraldas,803.0,Muisne,80350.0,Muisne,True
+8.0,Esmeraldas,803.0,Muisne,80351.0,Bolivar,False
+8.0,Esmeraldas,803.0,Muisne,80352.0,Daule,False
+8.0,Esmeraldas,803.0,Muisne,80353.0,Galera,False
+8.0,Esmeraldas,803.0,Muisne,80354.0,Quingue (Olmedo Perdomo Franco),False
+8.0,Esmeraldas,803.0,Muisne,80355.0,Salima,False
+8.0,Esmeraldas,803.0,Muisne,80356.0,San Francisco,False
+8.0,Esmeraldas,803.0,Muisne,80357.0,San Gregorio,False
+8.0,Esmeraldas,803.0,Muisne,80358.0,San Jose De Chamanga,False
+8.0,Esmeraldas,804.0,Quininde,80450.0,Rosa Zarate (Quininde),True
+8.0,Esmeraldas,804.0,Quininde,80451.0,Cube,False
+8.0,Esmeraldas,804.0,Quininde,80452.0,Chura (Chancama) (Cab. En El Yerbero),False
+8.0,Esmeraldas,804.0,Quininde,80453.0,Malimpia,False
+8.0,Esmeraldas,804.0,Quininde,80454.0,Viche,False
+8.0,Esmeraldas,804.0,Quininde,80455.0,La Union,False
+8.0,Esmeraldas,805.0,San Lorenzo,80550.0,San Lorenzo,True
+8.0,Esmeraldas,805.0,San Lorenzo,80551.0,Alto Tambo (Cab En Guadual),False
+8.0,Esmeraldas,805.0,San Lorenzo,80552.0,Ancon (Pichangal) (Cab. En Palma Real),False
+8.0,Esmeraldas,805.0,San Lorenzo,80553.0,Calderon,False
+8.0,Esmeraldas,805.0,San Lorenzo,80554.0,Carondelet,False
+8.0,Esmeraldas,805.0,San Lorenzo,80555.0,5 De Junio (Cab. En Uimbi),False
+8.0,Esmeraldas,805.0,San Lorenzo,80556.0,Concepcion,False
+8.0,Esmeraldas,805.0,San Lorenzo,80557.0,Mataje (Cab. En Santander),False
+8.0,Esmeraldas,805.0,San Lorenzo,80558.0,San Javier De Cachavi (Cab. En San Javier),False
+8.0,Esmeraldas,805.0,San Lorenzo,80559.0,Santa Rita,False
+8.0,Esmeraldas,805.0,San Lorenzo,80560.0,Tambillo,False
+8.0,Esmeraldas,805.0,San Lorenzo,80561.0,Tululbi (Cab. En Ricaurte),False
+8.0,Esmeraldas,805.0,San Lorenzo,80562.0,Urbina,False
+8.0,Esmeraldas,806.0,Atacames,80650.0,Atacames,True
+8.0,Esmeraldas,806.0,Atacames,80651.0,La Union,False
+8.0,Esmeraldas,806.0,Atacames,80652.0,Sua (Cab. En La Bocana),False
+8.0,Esmeraldas,806.0,Atacames,80653.0,Tonchigue,False
+8.0,Esmeraldas,806.0,Atacames,80654.0,Tonsupa,False
+8.0,Esmeraldas,807.0,Rioverde,80750.0,Rioverde,True
+8.0,Esmeraldas,807.0,Rioverde,80751.0,Chontaduro,False
+8.0,Esmeraldas,807.0,Rioverde,80752.0,Chumunde,False
+8.0,Esmeraldas,807.0,Rioverde,80753.0,Lagarto,False
+8.0,Esmeraldas,807.0,Rioverde,80754.0,Montalvo (Cab En Horqueta),False
+8.0,Esmeraldas,807.0,Rioverde,80755.0,Rocafuerte,False
+9.0,Guayas,901.0,Guayaquil,90101.0,Ayacucho,True
+9.0,Guayas,901.0,Guayaquil,90102.0,Bolívar  (Sagrario),True
+9.0,Guayas,901.0,Guayaquil,90103.0,Carbo (Concepción),True
+9.0,Guayas,901.0,Guayaquil,90104.0,Febres Cordero,True
+9.0,Guayas,901.0,Guayaquil,90105.0,García Moreno,True
+9.0,Guayas,901.0,Guayaquil,90106.0,Letamendi,True
+9.0,Guayas,901.0,Guayaquil,90107.0,Nueve De Octubre,True
+9.0,Guayas,901.0,Guayaquil,90108.0,Olmedo  (San Alejo),True
+9.0,Guayas,901.0,Guayaquil,90109.0,Roca,True
+9.0,Guayas,901.0,Guayaquil,90110.0,Rocafuerte,True
+9.0,Guayas,901.0,Guayaquil,90111.0,Sucre,True
+9.0,Guayas,901.0,Guayaquil,90112.0,Tarqui,True
+9.0,Guayas,901.0,Guayaquil,90113.0,Urdaneta,True
+9.0,Guayas,901.0,Guayaquil,90114.0,Ximena,True
+9.0,Guayas,901.0,Guayaquil,90115.0,Pascuales,True
+9.0,Guayas,901.0,Guayaquil,90150.0,"Guayaquil, Cabecera Cantonal Y Capital Provincial",True
+9.0,Guayas,901.0,Guayaquil,90152.0,Juan Gomez Rendon (Progreso),False
+9.0,Guayas,901.0,Guayaquil,90153.0,Morro,False
+9.0,Guayas,901.0,Guayaquil,90156.0,Posorja,False
+9.0,Guayas,901.0,Guayaquil,90157.0,Puna,False
+9.0,Guayas,901.0,Guayaquil,90158.0,Tenguel,False
+9.0,Guayas,902.0,Alfredo Baquerizo Moreno (Jujan),90250.0,Alfredo Baquerizo Moreno (Jujan),True
+9.0,Guayas,903.0,Balao,90350.0,Balao,True
+9.0,Guayas,904.0,Balzar,90450.0,Balzar,True
+9.0,Guayas,905.0,Colimes,90550.0,Colimes,True
+9.0,Guayas,905.0,Colimes,90551.0,San Jacinto,False
+9.0,Guayas,906.0,Daule,90601.0,Daule,True
+9.0,Guayas,906.0,Daule,90602.0,La Aurora (Satélite),True
+9.0,Guayas,906.0,Daule,90603.0,Banife,True
+9.0,Guayas,906.0,Daule,90604.0,Emiliano Caicedo Marcos,True
+9.0,Guayas,906.0,Daule,90605.0,Magro,True
+9.0,Guayas,906.0,Daule,90606.0,Padre Juan Bautista Aguirre,True
+9.0,Guayas,906.0,Daule,90607.0,Santa Clara,True
+9.0,Guayas,906.0,Daule,90608.0,Vicente Piedrahita,True
+9.0,Guayas,906.0,Daule,90652.0,Juan Bautista Aguirre (Los Tintos),False
+9.0,Guayas,906.0,Daule,90653.0,Laurel,False
+9.0,Guayas,906.0,Daule,90654.0,Limonal,False
+9.0,Guayas,906.0,Daule,90656.0,Los Lojas (Enrique Baquerizo Moreno),False
+9.0,Guayas,907.0,Duran,90701.0,Eloy Alfaro (Durán),True
+9.0,Guayas,907.0,Duran,90702.0,El Recreo,True
+9.0,Guayas,907.0,Duran,90703.0,Divino Niño,True
+9.0,Guayas,908.0,El Empalme,90850.0,Velasco Ibarra (Cab. El Empalme),True
+9.0,Guayas,908.0,El Empalme,90851.0,Guayas (Pueblo Nuevo),False
+9.0,Guayas,908.0,El Empalme,90852.0,El Rosario,False
+9.0,Guayas,909.0,El Triunfo,90950.0,El Triunfo,True
+9.0,Guayas,910.0,Milagro,91001.0,Camilo Andrade,True
+9.0,Guayas,910.0,Milagro,91002.0,Eloy Alfaro,True
+9.0,Guayas,910.0,Milagro,91003.0,Chirijos,True
+9.0,Guayas,910.0,Milagro,91004.0,Coronel Enrique Valdez,True
+9.0,Guayas,910.0,Milagro,91005.0,Rosa Maria,True
+9.0,Guayas,910.0,Milagro,91006.0,Jose Maria Velasco Ibarra,True
+9.0,Guayas,910.0,Milagro,91007.0,Vicente Rocafuerte,True
+9.0,Guayas,910.0,Milagro,91008.0,Ernesto Seminario,True
+9.0,Guayas,910.0,Milagro,91009.0,Las Piñas,True
+9.0,Guayas,910.0,Milagro,91050.0,"Milagro, Cabecera Cantonal",True
+9.0,Guayas,910.0,Milagro,91051.0,Chobo,False
+9.0,Guayas,910.0,Milagro,91053.0,Mariscal Sucre (Huaques),False
+9.0,Guayas,910.0,Milagro,91054.0,Roberto Astudillo (Cab. En Cruce De Venecia),False
+9.0,Guayas,911.0,Naranjal,91150.0,Naranjal,True
+9.0,Guayas,911.0,Naranjal,91151.0,Jesus Maria,False
+9.0,Guayas,911.0,Naranjal,91152.0,San Carlos,False
+9.0,Guayas,911.0,Naranjal,91153.0,Santa Rosa De Flandes,False
+9.0,Guayas,911.0,Naranjal,91154.0,Taura,False
+9.0,Guayas,912.0,Naranjito,91250.0,Naranjito,True
+9.0,Guayas,913.0,Palestina,91350.0,Palestina,True
+9.0,Guayas,914.0,Pedro Carbo,91450.0,Pedro Carbo,True
+9.0,Guayas,914.0,Pedro Carbo,91451.0,Valle De La Virgen,False
+9.0,Guayas,914.0,Pedro Carbo,91452.0,Sabanilla,False
+9.0,Guayas,916.0,Samborondon,91601.0,Samborondón,True
+9.0,Guayas,916.0,Samborondon,91602.0,La Puntilla (Satélite),True
+9.0,Guayas,916.0,Samborondon,91650.0,"Samborondon, Cabecera Cantonal",True
+9.0,Guayas,916.0,Samborondon,91651.0,Tarifa,False
+9.0,Guayas,918.0,Santa Lucia,91850.0,Santa Lucia,True
+9.0,Guayas,919.0,Urbina Jado,91901.0,Bocana,True
+9.0,Guayas,919.0,Urbina Jado,91902.0,Candilejos,True
+9.0,Guayas,919.0,Urbina Jado,91903.0,Central,True
+9.0,Guayas,919.0,Urbina Jado,91905.0,San Mateo,True
+9.0,Guayas,919.0,Urbina Jado,91950.0,"Salitre,( Las Ramas)",True
+9.0,Guayas,919.0,Urbina Jado,91951.0,General Vernaza (Dos Esteros),False
+9.0,Guayas,919.0,Urbina Jado,91952.0,La Victoria (Ñauza),False
+9.0,Guayas,919.0,Urbina Jado,91953.0,Junquillal,False
+9.0,Guayas,920.0,Yaguachi,92050.0,San Jacinto De Yaguachi,True
+9.0,Guayas,920.0,Yaguachi,92053.0,General Pedro J. Montero (Boliche),False
+9.0,Guayas,920.0,Yaguachi,92055.0,Yaguachi Viejo (Cone),False
+9.0,Guayas,920.0,Yaguachi,92056.0,Virgen De Fatima,False
+9.0,Guayas,921.0,Playas,92150.0,General Villamil (Playas),True
+9.0,Guayas,922.0,Simon Bolivar,92250.0,Simon Bolivar,True
+9.0,Guayas,922.0,Simon Bolivar,92251.0,Coronel Lorenzo De Garaicoa (Pedregal),False
+9.0,Guayas,923.0,Coronel Marcelino Maridueña,92350.0,Coronel Marcelino Maridueña (San Carlos),True
+9.0,Guayas,924.0,Lomas De Sargentillo,92450.0,Lomas De Sargentillo,True
+9.0,Guayas,925.0,Nobol,92550.0,Narcisa De Jesus,True
+9.0,Guayas,927.0,General  Antonio Elizalde,92750.0,General Antonio Elizalde (Bucay),True
+9.0,Guayas,928.0,Isidro Ayora,92850.0,Isidro Ayora,True
+10.0,Imbabura,1001.0,Ibarra,100101.0,Caranqui,True
+10.0,Imbabura,1001.0,Ibarra,100102.0,Guayaquil De Alpachaca,True
+10.0,Imbabura,1001.0,Ibarra,100103.0,Sagrario,True
+10.0,Imbabura,1001.0,Ibarra,100104.0,San Francisco,True
+10.0,Imbabura,1001.0,Ibarra,100105.0,La Dolorosa Del Priorato,True
+10.0,Imbabura,1001.0,Ibarra,100150.0,"San Miguel De Ibarra, Cabecera Cantonal Y Capital Provincial",True
+10.0,Imbabura,1001.0,Ibarra,100151.0,Ambuqui,False
+10.0,Imbabura,1001.0,Ibarra,100152.0,Angochagua,False
+10.0,Imbabura,1001.0,Ibarra,100153.0,Carolina,False
+10.0,Imbabura,1001.0,Ibarra,100154.0,La Esperanza,False
+10.0,Imbabura,1001.0,Ibarra,100155.0,Lita,False
+10.0,Imbabura,1001.0,Ibarra,100156.0,Salinas,False
+10.0,Imbabura,1001.0,Ibarra,100157.0,San Antonio,False
+10.0,Imbabura,1002.0,Antonio Ante,100201.0,Andrade Marín  (Lourdes),True
+10.0,Imbabura,1002.0,Antonio Ante,100202.0,Atuntaqui,True
+10.0,Imbabura,1002.0,Antonio Ante,100251.0,Imbaya (San Luis De Cobuendo),False
+10.0,Imbabura,1002.0,Antonio Ante,100252.0,San Francisco De Natabuela,False
+10.0,Imbabura,1002.0,Antonio Ante,100253.0,San Jose De Chaltura,False
+10.0,Imbabura,1002.0,Antonio Ante,100254.0,San Roque,False
+10.0,Imbabura,1003.0,Cotacachi,100301.0,Sagrario,True
+10.0,Imbabura,1003.0,Cotacachi,100302.0,San Francisco,True
+10.0,Imbabura,1003.0,Cotacachi,100351.0,Apuela,False
+10.0,Imbabura,1003.0,Cotacachi,100352.0,Garcia Moreno (Llurimagua),False
+10.0,Imbabura,1003.0,Cotacachi,100353.0,Imantag,False
+10.0,Imbabura,1003.0,Cotacachi,100354.0,Peñaherrera,False
+10.0,Imbabura,1003.0,Cotacachi,100355.0,Plaza Gutierrez (Calvario),False
+10.0,Imbabura,1003.0,Cotacachi,100356.0,Quiroga,False
+10.0,Imbabura,1003.0,Cotacachi,100357.0,6 De Julio De Cuellaje (Cab. En Cuellaje),False
+10.0,Imbabura,1003.0,Cotacachi,100358.0,Vacas Galindo (El Churo) (Cab. En San Miguel Alto),False
+10.0,Imbabura,1004.0,Otavalo,100401.0,Jordán,True
+10.0,Imbabura,1004.0,Otavalo,100402.0,San Luis,True
+10.0,Imbabura,1004.0,Otavalo,100450.0,"Otavalo, Cabecera Cantonal",True
+10.0,Imbabura,1004.0,Otavalo,100451.0,Doctor Miguel Egas Cabezas (Peguche),False
+10.0,Imbabura,1004.0,Otavalo,100452.0,Eugenio Espejo (Calpaqui),False
+10.0,Imbabura,1004.0,Otavalo,100453.0,Gonzalez Suarez,False
+10.0,Imbabura,1004.0,Otavalo,100454.0,Pataqui,False
+10.0,Imbabura,1004.0,Otavalo,100455.0,San Jose De Quichinche,False
+10.0,Imbabura,1004.0,Otavalo,100456.0,San Juan De Iluman,False
+10.0,Imbabura,1004.0,Otavalo,100457.0,San Pablo,False
+10.0,Imbabura,1004.0,Otavalo,100458.0,San Rafael,False
+10.0,Imbabura,1004.0,Otavalo,100459.0,Selva Alegre (Cab. En San Miguel De Pamplona),False
+10.0,Imbabura,1005.0,Pimampiro,100550.0,Pimampiro,True
+10.0,Imbabura,1005.0,Pimampiro,100551.0,Chuga,False
+10.0,Imbabura,1005.0,Pimampiro,100552.0,Mariano Acosta,False
+10.0,Imbabura,1005.0,Pimampiro,100553.0,San Francisco De Sigsipamba,False
+10.0,Imbabura,1006.0,San Miguel De Urcuqui,100650.0,Urcuqui,True
+10.0,Imbabura,1006.0,San Miguel De Urcuqui,100651.0,Cahuasqui,False
+10.0,Imbabura,1006.0,San Miguel De Urcuqui,100652.0,La Merced De Buenos Aires,False
+10.0,Imbabura,1006.0,San Miguel De Urcuqui,100653.0,Pablo Arenas,False
+10.0,Imbabura,1006.0,San Miguel De Urcuqui,100654.0,San Blas,False
+10.0,Imbabura,1006.0,San Miguel De Urcuqui,100655.0,Tumbabiro,False
+11.0,Loja,1101.0,Loja,110101.0,El Sagrario,True
+11.0,Loja,1101.0,Loja,110102.0,San Sebastián,True
+11.0,Loja,1101.0,Loja,110103.0,Sucre,True
+11.0,Loja,1101.0,Loja,110104.0,Valle,True
+11.0,Loja,1101.0,Loja,110105.0,Carigán,True
+11.0,Loja,1101.0,Loja,110106.0,Punzara,True
+11.0,Loja,1101.0,Loja,110150.0,"Loja, Cabecera Cantonal Y Capital Provincial",True
+11.0,Loja,1101.0,Loja,110151.0,Chantaco,False
+11.0,Loja,1101.0,Loja,110152.0,Chuquiribamba,False
+11.0,Loja,1101.0,Loja,110153.0,El Cisne,False
+11.0,Loja,1101.0,Loja,110154.0,Gualel,False
+11.0,Loja,1101.0,Loja,110155.0,Jimbilla,False
+11.0,Loja,1101.0,Loja,110156.0,Malacatos (Valladolid),False
+11.0,Loja,1101.0,Loja,110157.0,San Lucas,False
+11.0,Loja,1101.0,Loja,110158.0,San Pedro De Vilcabamba,False
+11.0,Loja,1101.0,Loja,110159.0,Santiago,False
+11.0,Loja,1101.0,Loja,110160.0,Taquil (Miguel Riofrio),False
+11.0,Loja,1101.0,Loja,110161.0,Vilcabamba (Victoria),False
+11.0,Loja,1101.0,Loja,110162.0,Yangana (Arsenio Castillo),False
+11.0,Loja,1101.0,Loja,110163.0,Quinara,False
+11.0,Loja,1102.0,Calvas,110201.0,Cariamanga,True
+11.0,Loja,1102.0,Calvas,110202.0,Chile,True
+11.0,Loja,1102.0,Calvas,110203.0,San Vicente,True
+11.0,Loja,1102.0,Calvas,110251.0,Colaisaca,False
+11.0,Loja,1102.0,Calvas,110252.0,El Lucero,False
+11.0,Loja,1102.0,Calvas,110253.0,Utuana,False
+11.0,Loja,1102.0,Calvas,110254.0,Sanguillin,False
+11.0,Loja,1103.0,Catamayo,110301.0,Catamayo,True
+11.0,Loja,1103.0,Catamayo,110302.0,San José,True
+11.0,Loja,1103.0,Catamayo,110350.0,Catamayo,True
+11.0,Loja,1103.0,Catamayo,110351.0,El Tambo,False
+11.0,Loja,1103.0,Catamayo,110352.0,Guayquichuma,False
+11.0,Loja,1103.0,Catamayo,110353.0,San Pedro De La Bendita,False
+11.0,Loja,1103.0,Catamayo,110354.0,Zambi,False
+11.0,Loja,1104.0,Celica,110450.0,Celica,True
+11.0,Loja,1104.0,Celica,110451.0,Cruzpamba (Cab En Carlos Bustamante),False
+11.0,Loja,1104.0,Celica,110455.0,Pozul (San Juan De Pozul),False
+11.0,Loja,1104.0,Celica,110456.0,Sabanilla,False
+11.0,Loja,1104.0,Celica,110457.0,Teniente Maximiliano Rodriguez Loaiza,False
+11.0,Loja,1105.0,Chaguarpamba,110550.0,Chaguarpamba,True
+11.0,Loja,1105.0,Chaguarpamba,110551.0,Buenavista,False
+11.0,Loja,1105.0,Chaguarpamba,110552.0,El Rosario,False
+11.0,Loja,1105.0,Chaguarpamba,110553.0,Santa Rufina,False
+11.0,Loja,1105.0,Chaguarpamba,110554.0,Amarillos,False
+11.0,Loja,1106.0,Espindola,110650.0,Amaluza,True
+11.0,Loja,1106.0,Espindola,110651.0,Bellavista,False
+11.0,Loja,1106.0,Espindola,110652.0,Jimbura,False
+11.0,Loja,1106.0,Espindola,110653.0,Santa Teresita,False
+11.0,Loja,1106.0,Espindola,110654.0,27 De Abril (Cab. En La Naranja),False
+11.0,Loja,1106.0,Espindola,110655.0,El Ingenio,False
+11.0,Loja,1106.0,Espindola,110656.0,El Airo,False
+11.0,Loja,1107.0,Gonzanama,110750.0,Gonzanama,True
+11.0,Loja,1107.0,Gonzanama,110751.0,Changaimina (La Libertad),False
+11.0,Loja,1107.0,Gonzanama,110753.0,Nambacola,False
+11.0,Loja,1107.0,Gonzanama,110754.0,Purunuma (Eguiguren),False
+11.0,Loja,1107.0,Gonzanama,110756.0,Sacapalca,False
+11.0,Loja,1108.0,Macara,110801.0,General Eloy Alfaro (San Sebastián),True
+11.0,Loja,1108.0,Macara,110802.0,Macará  (Manuel Enrique Rengel Suquilanda),True
+11.0,Loja,1108.0,Macara,110851.0,Larama,False
+11.0,Loja,1108.0,Macara,110852.0,La Victoria,False
+11.0,Loja,1108.0,Macara,110853.0,Sabiango (La Capilla),False
+11.0,Loja,1109.0,Paltas,110901.0,Catacocha,True
+11.0,Loja,1109.0,Paltas,110902.0,Lourdes,True
+11.0,Loja,1109.0,Paltas,110951.0,Cangonama,False
+11.0,Loja,1109.0,Paltas,110952.0,Guachanama,False
+11.0,Loja,1109.0,Paltas,110954.0,Lauro Guerrero,False
+11.0,Loja,1109.0,Paltas,110956.0,Orianga,False
+11.0,Loja,1109.0,Paltas,110957.0,San Antonio,False
+11.0,Loja,1109.0,Paltas,110958.0,Casanga,False
+11.0,Loja,1109.0,Paltas,110959.0,Yamana,False
+11.0,Loja,1110.0,Puyango,111050.0,Alamor,True
+11.0,Loja,1110.0,Puyango,111051.0,Ciano,False
+11.0,Loja,1110.0,Puyango,111052.0,El Arenal,False
+11.0,Loja,1110.0,Puyango,111053.0,El Limo (Mariana De Jesus),False
+11.0,Loja,1110.0,Puyango,111054.0,Mercadillo,False
+11.0,Loja,1110.0,Puyango,111055.0,Vicentino,False
+11.0,Loja,1111.0,Saraguro,111150.0,Saraguro,True
+11.0,Loja,1111.0,Saraguro,111151.0,El Paraiso De Celen,False
+11.0,Loja,1111.0,Saraguro,111152.0,El Tablon,False
+11.0,Loja,1111.0,Saraguro,111153.0,Lluzhapa,False
+11.0,Loja,1111.0,Saraguro,111154.0,Manu,False
+11.0,Loja,1111.0,Saraguro,111155.0,San Antonio De Qumbe (Cumbe),False
+11.0,Loja,1111.0,Saraguro,111156.0,San Pablo De Tenta,False
+11.0,Loja,1111.0,Saraguro,111157.0,San Sebastian De Yuluc,False
+11.0,Loja,1111.0,Saraguro,111158.0,Selva Alegre,False
+11.0,Loja,1111.0,Saraguro,111159.0,Urdaneta (Paquishapa),False
+11.0,Loja,1111.0,Saraguro,111160.0,Sumaypamba,False
+11.0,Loja,1112.0,Sozoranga,111250.0,Sozoranga,True
+11.0,Loja,1112.0,Sozoranga,111251.0,Nueva Fatima,False
+11.0,Loja,1112.0,Sozoranga,111252.0,Tacamoros,False
+11.0,Loja,1113.0,Zapotillo,111350.0,Zapotillo,True
+11.0,Loja,1113.0,Zapotillo,111351.0,Mangahurco,False
+11.0,Loja,1113.0,Zapotillo,111352.0,Garzareal,False
+11.0,Loja,1113.0,Zapotillo,111353.0,Limones,False
+11.0,Loja,1113.0,Zapotillo,111354.0,Paletillas,False
+11.0,Loja,1113.0,Zapotillo,111355.0,Bolaspamba,False
+11.0,Loja,1113.0,Zapotillo,111356.0,Cazaderos,False
+11.0,Loja,1114.0,Pindal,111450.0,Pindal,True
+11.0,Loja,1114.0,Pindal,111451.0,Chaquinal,False
+11.0,Loja,1114.0,Pindal,111452.0,12 De Diciembre (Cab. En Achiotes),False
+11.0,Loja,1114.0,Pindal,111453.0,Milagros,False
+11.0,Loja,1115.0,Quilanga,111550.0,Quilanga,True
+11.0,Loja,1115.0,Quilanga,111551.0,Fundochamba,False
+11.0,Loja,1115.0,Quilanga,111552.0,San Antonio De Las Aradas (Cab. En Las Aradas),False
+11.0,Loja,1116.0,Olmedo,111650.0,Olmedo,True
+11.0,Loja,1116.0,Olmedo,111651.0,La Tingue,False
+12.0,Los Rios,1201.0,Babahoyo,120101.0,Clemente Baquerizo,True
+12.0,Los Rios,1201.0,Babahoyo,120102.0,Doctor Camilo Ponce,True
+12.0,Los Rios,1201.0,Babahoyo,120103.0,Barreiro,True
+12.0,Los Rios,1201.0,Babahoyo,120104.0,El Salto,True
+12.0,Los Rios,1201.0,Babahoyo,120150.0,"Babahoyo, Cabecera Cantonal Y Capital Provincial",True
+12.0,Los Rios,1201.0,Babahoyo,120152.0,Caracol,False
+12.0,Los Rios,1201.0,Babahoyo,120153.0,Febres Cordero (Las Juntas),False
+12.0,Los Rios,1201.0,Babahoyo,120154.0,Pimocha,False
+12.0,Los Rios,1201.0,Babahoyo,120155.0,La Union,False
+12.0,Los Rios,1202.0,Baba,120250.0,Baba,True
+12.0,Los Rios,1202.0,Baba,120251.0,Guare,False
+12.0,Los Rios,1202.0,Baba,120252.0,Isla De Bejucal,False
+12.0,Los Rios,1203.0,Montalvo,120350.0,Montalvo,True
+12.0,Los Rios,1203.0,Montalvo,120351.0,La Esmeralda,False
+12.0,Los Rios,1204.0,Puebloviejo,120450.0,Puebloviejo,True
+12.0,Los Rios,1204.0,Puebloviejo,120451.0,Puerto Pechiche,False
+12.0,Los Rios,1204.0,Puebloviejo,120452.0,San Juan,False
+12.0,Los Rios,1205.0,Quevedo,120501.0,Quevedo,True
+12.0,Los Rios,1205.0,Quevedo,120502.0,San Camilo,True
+12.0,Los Rios,1205.0,Quevedo,120504.0,Guayacán,True
+12.0,Los Rios,1205.0,Quevedo,120505.0,Nicolás Infante Díaz,True
+12.0,Los Rios,1205.0,Quevedo,120506.0,San Cristóbal,True
+12.0,Los Rios,1205.0,Quevedo,120507.0,Siete De Octubre,True
+12.0,Los Rios,1205.0,Quevedo,120508.0,24 De Mayo,True
+12.0,Los Rios,1205.0,Quevedo,120509.0,Venus Del Río Quevedo,True
+12.0,Los Rios,1205.0,Quevedo,120510.0,Viva Alfaro,True
+12.0,Los Rios,1205.0,Quevedo,120553.0,San Carlos,False
+12.0,Los Rios,1205.0,Quevedo,120555.0,La Esperanza,False
+12.0,Los Rios,1206.0,Urdaneta,120650.0,Catarama,True
+12.0,Los Rios,1206.0,Urdaneta,120651.0,Ricaurte,False
+12.0,Los Rios,1207.0,Ventanas,120701.0,10 De Noviembre,True
+12.0,Los Rios,1207.0,Ventanas,120702.0,Ventanas,True
+12.0,Los Rios,1207.0,Ventanas,120750.0,"Ventanas, Cabecera Cantonal",True
+12.0,Los Rios,1207.0,Ventanas,120752.0,Zapotal,False
+12.0,Los Rios,1207.0,Ventanas,120753.0,Chacarita,False
+12.0,Los Rios,1207.0,Ventanas,120754.0,Los Angeles,False
+12.0,Los Rios,1208.0,Vinces,120801.0,Balzar De Vinces,True
+12.0,Los Rios,1208.0,Vinces,120802.0,Vinces Central,True
+12.0,Los Rios,1208.0,Vinces,120803.0,San Lorenzo De Vinces,True
+12.0,Los Rios,1208.0,Vinces,120850.0,"Vinces, Cabecera Cantonal",True
+12.0,Los Rios,1208.0,Vinces,120851.0,Antonio Sotomayor (Cab. En Playas De Vinces),False
+12.0,Los Rios,1209.0,Palenque,120950.0,Palenque,True
+12.0,Los Rios,1210.0,Buena Fe,121001.0,San Jacinto De Buena Fé,True
+12.0,Los Rios,1210.0,Buena Fe,121002.0,7 De Agosto,True
+12.0,Los Rios,1210.0,Buena Fe,121003.0,11 De Octubre,True
+12.0,Los Rios,1210.0,Buena Fe,121050.0,"San Jacinto De Buena Fe, Cabecera Cantonal",True
+12.0,Los Rios,1210.0,Buena Fe,121051.0,Patricia Pilar,False
+12.0,Los Rios,1211.0,Valencia,121101.0,Valencia,True
+12.0,Los Rios,1211.0,Valencia,121102.0,La Union,True
+12.0,Los Rios,1211.0,Valencia,121103.0,La Nueva Union,True
+12.0,Los Rios,1211.0,Valencia,121150.0,"Valencia, Cabecera Cantonal",True
+12.0,Los Rios,1212.0,Mocache,121250.0,Mocache,True
+12.0,Los Rios,1213.0,Quinsaloma,121350.0,Quinsaloma,True
+13.0,Manabi,1301.0,Portoviejo,130101.0,Portoviejo,True
+13.0,Manabi,1301.0,Portoviejo,130102.0,12 De Marzo,True
+13.0,Manabi,1301.0,Portoviejo,130103.0,Colón,True
+13.0,Manabi,1301.0,Portoviejo,130104.0,Picoazá,True
+13.0,Manabi,1301.0,Portoviejo,130105.0,San Pablo,True
+13.0,Manabi,1301.0,Portoviejo,130106.0,Andrés De Vera,True
+13.0,Manabi,1301.0,Portoviejo,130107.0,Francisco Pacheco,True
+13.0,Manabi,1301.0,Portoviejo,130108.0,18 De Octubre,True
+13.0,Manabi,1301.0,Portoviejo,130109.0,Simón Bolívar,True
+13.0,Manabi,1301.0,Portoviejo,130151.0,Abdon Calderon (San Francisco),False
+13.0,Manabi,1301.0,Portoviejo,130152.0,Alhajuela (Bajo Grande),False
+13.0,Manabi,1301.0,Portoviejo,130153.0,Crucita,False
+13.0,Manabi,1301.0,Portoviejo,130154.0,Pueblo Nuevo,False
+13.0,Manabi,1301.0,Portoviejo,130155.0,Riochico (Rio Chico),False
+13.0,Manabi,1301.0,Portoviejo,130156.0,San Placido,False
+13.0,Manabi,1301.0,Portoviejo,130157.0,Chirijos,False
+13.0,Manabi,1302.0,Bolivar,130250.0,Calceta,True
+13.0,Manabi,1302.0,Bolivar,130251.0,Membrillo,False
+13.0,Manabi,1302.0,Bolivar,130252.0,Quiroga,False
+13.0,Manabi,1303.0,Chone,130301.0,Chone,True
+13.0,Manabi,1303.0,Chone,130302.0,Santa Rita,True
+13.0,Manabi,1303.0,Chone,130350.0,"Chone, Cabecera Cantonal",True
+13.0,Manabi,1303.0,Chone,130351.0,Boyaca,False
+13.0,Manabi,1303.0,Chone,130352.0,Canuto,False
+13.0,Manabi,1303.0,Chone,130353.0,Convento,False
+13.0,Manabi,1303.0,Chone,130354.0,Chibunga,False
+13.0,Manabi,1303.0,Chone,130355.0,Eloy Alfaro,False
+13.0,Manabi,1303.0,Chone,130356.0,Ricaurte,False
+13.0,Manabi,1303.0,Chone,130357.0,San Antonio,False
+13.0,Manabi,1304.0,El Carmen,130401.0,El Carmen,True
+13.0,Manabi,1304.0,El Carmen,130402.0,4 De Diciembre,True
+13.0,Manabi,1304.0,El Carmen,130451.0,Wilfrido Loor Moreira (Maicito),False
+13.0,Manabi,1304.0,El Carmen,130452.0,San Pedro De Suma,False
+13.0,Manabi,1305.0,Flavio Alfaro,130550.0,Flavio Alfaro,True
+13.0,Manabi,1305.0,Flavio Alfaro,130551.0,San Francisco De Novillo (Cab. En Novillo),False
+13.0,Manabi,1305.0,Flavio Alfaro,130552.0,Zapallo,False
+13.0,Manabi,1306.0,Jipijapa,130601.0,Doctor Miguel Morán Lucio,True
+13.0,Manabi,1306.0,Jipijapa,130602.0,Manuel Inocencio Parrales Y Guale,True
+13.0,Manabi,1306.0,Jipijapa,130603.0,San Lorenzo De Jipijapa,True
+13.0,Manabi,1306.0,Jipijapa,130651.0,America,False
+13.0,Manabi,1306.0,Jipijapa,130652.0,El Anegado (Cab. En Eloy Alfaro),False
+13.0,Manabi,1306.0,Jipijapa,130653.0,Julcuy,False
+13.0,Manabi,1306.0,Jipijapa,130654.0,La Union,False
+13.0,Manabi,1306.0,Jipijapa,130656.0,Membrillal,False
+13.0,Manabi,1306.0,Jipijapa,130657.0,Pedro Pablo Gomez,False
+13.0,Manabi,1306.0,Jipijapa,130658.0,Puerto De Cayo,False
+13.0,Manabi,1307.0,Junin,130750.0,Junin,True
+13.0,Manabi,1308.0,Manta,130801.0,Los Esteros,True
+13.0,Manabi,1308.0,Manta,130802.0,Manta,True
+13.0,Manabi,1308.0,Manta,130803.0,San Mateo,True
+13.0,Manabi,1308.0,Manta,130804.0,Tarqui,True
+13.0,Manabi,1308.0,Manta,130805.0,Eloy Alfaro,True
+13.0,Manabi,1308.0,Manta,130850.0,"Manta, Cabecera Cantonal",True
+13.0,Manabi,1308.0,Manta,130851.0,San Lorenzo,False
+13.0,Manabi,1308.0,Manta,130852.0,Santa Marianita (Boca De Pacoche),False
+13.0,Manabi,1309.0,Montecristi,130901.0,Aníbal San Andrés,True
+13.0,Manabi,1309.0,Montecristi,130902.0,Montecristi,True
+13.0,Manabi,1309.0,Montecristi,130903.0,El Colorado,True
+13.0,Manabi,1309.0,Montecristi,130904.0,General Eloy Alfaro,True
+13.0,Manabi,1309.0,Montecristi,130905.0,Leonidas Proaño,True
+13.0,Manabi,1309.0,Montecristi,130952.0,La Pila,False
+13.0,Manabi,1310.0,Pajan,131050.0,Pajan,True
+13.0,Manabi,1310.0,Pajan,131051.0,Campozano (La Palma De Pajan),False
+13.0,Manabi,1310.0,Pajan,131052.0,Cascol,False
+13.0,Manabi,1310.0,Pajan,131053.0,Guale,False
+13.0,Manabi,1310.0,Pajan,131054.0,Lascano,False
+13.0,Manabi,1311.0,Pichincha,131150.0,Pichincha,True
+13.0,Manabi,1311.0,Pichincha,131151.0,Barraganete,False
+13.0,Manabi,1311.0,Pichincha,131152.0,San Sebastian,False
+13.0,Manabi,1312.0,Rocafuerte,131250.0,Rocafuerte,True
+13.0,Manabi,1313.0,Santa Ana,131301.0,Santa Ana,True
+13.0,Manabi,1313.0,Santa Ana,131302.0,Lodana,True
+13.0,Manabi,1313.0,Santa Ana,131351.0,Ayacucho,False
+13.0,Manabi,1313.0,Santa Ana,131352.0,Honorato Vasquez (Cab En Vasquez),False
+13.0,Manabi,1313.0,Santa Ana,131353.0,La Union,False
+13.0,Manabi,1313.0,Santa Ana,131355.0,San Pablo (Cab En Pueblo Nuevo),False
+13.0,Manabi,1314.0,Sucre,131401.0,Bahía De Caráquez,True
+13.0,Manabi,1314.0,Sucre,131402.0,Leonidas Plaza Gutiérrez,True
+13.0,Manabi,1314.0,Sucre,131453.0,Charapoto,False
+13.0,Manabi,1314.0,Sucre,131457.0,San Isidro,False
+13.0,Manabi,1315.0,Tosagua,131550.0,Tosagua,True
+13.0,Manabi,1315.0,Tosagua,131551.0,Bachillero,False
+13.0,Manabi,1315.0,Tosagua,131552.0,Angel Pedro Giler (La Estancilla),False
+13.0,Manabi,1316.0,24 De Mayo,131650.0,Sucre,True
+13.0,Manabi,1316.0,24 De Mayo,131651.0,Bellavista,False
+13.0,Manabi,1316.0,24 De Mayo,131652.0,Noboa,False
+13.0,Manabi,1316.0,24 De Mayo,131653.0,Arquitecto Sixto Duran Ballen,False
+13.0,Manabi,1317.0,Pedernales,131750.0,Pedernales,True
+13.0,Manabi,1317.0,Pedernales,131751.0,Cojimies,False
+13.0,Manabi,1317.0,Pedernales,131752.0,Diez De Agosto,False
+13.0,Manabi,1317.0,Pedernales,131753.0,Atahualpa,False
+13.0,Manabi,1318.0,Olmedo,131850.0,Olmedo,True
+13.0,Manabi,1319.0,Puerto Lopez,131950.0,Puerto Lopez,True
+13.0,Manabi,1319.0,Puerto Lopez,131951.0,Machalilla,False
+13.0,Manabi,1319.0,Puerto Lopez,131952.0,Salango,False
+13.0,Manabi,1320.0,Jama,132050.0,Jama,True
+13.0,Manabi,1321.0,Jaramijo,132150.0,Jaramijo,True
+13.0,Manabi,1322.0,San Vicente,132250.0,San Vicente,True
+13.0,Manabi,1322.0,San Vicente,132251.0,Canoa,False
+14.0,Morona Santiago,1401.0,Morona,140150.0,Macas,True
+14.0,Morona Santiago,1401.0,Morona,140151.0,Alshi (Cab En 9 De Octubre),False
+14.0,Morona Santiago,1401.0,Morona,140153.0,General Proaño,False
+14.0,Morona Santiago,1401.0,Morona,140156.0,San Isidro,False
+14.0,Morona Santiago,1401.0,Morona,140157.0,Sevilla Don Bosco,False
+14.0,Morona Santiago,1401.0,Morona,140158.0,Sinai,False
+14.0,Morona Santiago,1401.0,Morona,140160.0,Zuña (Zuñac),False
+14.0,Morona Santiago,1401.0,Morona,140162.0,Cuchaentza,False
+14.0,Morona Santiago,1401.0,Morona,140164.0,Rio Blanco,False
+14.0,Morona Santiago,1402.0,Gualaquiza,140201.0,Gualaquiza,True
+14.0,Morona Santiago,1402.0,Gualaquiza,140202.0,Mercedes Molina,True
+14.0,Morona Santiago,1402.0,Gualaquiza,140251.0,Amazonas (Rosario De Cuyes),False
+14.0,Morona Santiago,1402.0,Gualaquiza,140252.0,Bermejos,False
+14.0,Morona Santiago,1402.0,Gualaquiza,140253.0,Bomboiza,False
+14.0,Morona Santiago,1402.0,Gualaquiza,140254.0,Chiguinda,False
+14.0,Morona Santiago,1402.0,Gualaquiza,140255.0,El Rosario,False
+14.0,Morona Santiago,1402.0,Gualaquiza,140256.0,Nueva Tarqui,False
+14.0,Morona Santiago,1402.0,Gualaquiza,140258.0,El Ideal,False
+14.0,Morona Santiago,1403.0,Limon Indanza,140350.0,General Leonidas Plaza Gutierrez,True
+14.0,Morona Santiago,1403.0,Limon Indanza,140351.0,Indanza,False
+14.0,Morona Santiago,1403.0,Limon Indanza,140353.0,San Antonio (Cab En San Antonio Centro),False
+14.0,Morona Santiago,1403.0,Limon Indanza,140356.0,San Miguel De Conchay,False
+14.0,Morona Santiago,1403.0,Limon Indanza,140357.0,Sta Susana De Chiviaza (Cab En Chiviaza),False
+14.0,Morona Santiago,1403.0,Limon Indanza,140358.0,Yunganza (Cab En El Rosario),False
+14.0,Morona Santiago,1404.0,Palora,140450.0,Palora (Metzera),True
+14.0,Morona Santiago,1404.0,Palora,140451.0,Arapicos,False
+14.0,Morona Santiago,1404.0,Palora,140452.0,Cumanda (Cab En Colonia Agricola Sevilla Del Oro),False
+14.0,Morona Santiago,1404.0,Palora,140454.0,Sangay (Cab En Nayamanaca),False
+14.0,Morona Santiago,1404.0,Palora,140455.0,16 De Agosto,False
+14.0,Morona Santiago,1405.0,Santiago,140550.0,Santiago De Mendez,True
+14.0,Morona Santiago,1405.0,Santiago,140551.0,Copal,False
+14.0,Morona Santiago,1405.0,Santiago,140552.0,Chupianza,False
+14.0,Morona Santiago,1405.0,Santiago,140553.0,Patuca,False
+14.0,Morona Santiago,1405.0,Santiago,140554.0,San Luis De El Acho (Cab En El Acho),False
+14.0,Morona Santiago,1405.0,Santiago,140556.0,Tayuza,False
+14.0,Morona Santiago,1405.0,Santiago,140557.0,San Francisco De Chinimbimi,False
+14.0,Morona Santiago,1406.0,Sucua,140650.0,Sucua,True
+14.0,Morona Santiago,1406.0,Sucua,140651.0,Asuncion,False
+14.0,Morona Santiago,1406.0,Sucua,140652.0,Huambi,False
+14.0,Morona Santiago,1406.0,Sucua,140655.0,Santa Marianita De Jesus,False
+14.0,Morona Santiago,1407.0,Huamboya,140750.0,Huamboya,True
+14.0,Morona Santiago,1407.0,Huamboya,140751.0,Chiguaza,False
+14.0,Morona Santiago,1408.0,San Juan Bosco,140850.0,San Juan Bosco,True
+14.0,Morona Santiago,1408.0,San Juan Bosco,140851.0,Pan De Azucar,False
+14.0,Morona Santiago,1408.0,San Juan Bosco,140852.0,San Carlos De Limon,False
+14.0,Morona Santiago,1408.0,San Juan Bosco,140854.0,Santiago De Pananza,False
+14.0,Morona Santiago,1409.0,Taisha,140950.0,Taisha,True
+14.0,Morona Santiago,1409.0,Taisha,140951.0,Huasaga (Cab En Wampuik),False
+14.0,Morona Santiago,1409.0,Taisha,140952.0,Macuma,False
+14.0,Morona Santiago,1409.0,Taisha,140953.0,Tuutinentza,False
+14.0,Morona Santiago,1409.0,Taisha,140954.0,Pumpuentsa,False
+14.0,Morona Santiago,1410.0,Logroño,141050.0,Logroño,True
+14.0,Morona Santiago,1410.0,Logroño,141051.0,Yaupi,False
+14.0,Morona Santiago,1410.0,Logroño,141052.0,Shimpis,False
+14.0,Morona Santiago,1411.0,Pablo Sexto,141150.0,Pablo Sexto,True
+14.0,Morona Santiago,1412.0,Tiwintza,141250.0,Santiago,True
+14.0,Morona Santiago,1412.0,Tiwintza,141251.0,San Jose De Morona,False
+15.0,Napo,1501.0,Tena,150150.0,Tena,True
+15.0,Napo,1501.0,Tena,150151.0,Ahuano,False
+15.0,Napo,1501.0,Tena,150153.0,Chontapunta,False
+15.0,Napo,1501.0,Tena,150154.0,Pano,False
+15.0,Napo,1501.0,Tena,150155.0,Puerto Misahualli,False
+15.0,Napo,1501.0,Tena,150156.0,Puerto Napo,False
+15.0,Napo,1501.0,Tena,150157.0,Talag,False
+15.0,Napo,1501.0,Tena,150158.0,San Juan De Muyuna,False
+15.0,Napo,1503.0,Archidona,150350.0,Archidona,True
+15.0,Napo,1503.0,Archidona,150352.0,Cotundo,False
+15.0,Napo,1503.0,Archidona,150354.0,San Pablo De Ushpayacu,False
+15.0,Napo,1503.0,Archidona,150356.0,Hatun Sumaku,False
+15.0,Napo,1504.0,El Chaco,150450.0,El Chaco,True
+15.0,Napo,1504.0,El Chaco,150451.0,Gonzalo Diaz De Pineda (El Bombon),False
+15.0,Napo,1504.0,El Chaco,150452.0,Linares,False
+15.0,Napo,1504.0,El Chaco,150453.0,Oyacachi,False
+15.0,Napo,1504.0,El Chaco,150454.0,Santa Rosa,False
+15.0,Napo,1504.0,El Chaco,150455.0,Sardinas,False
+15.0,Napo,1507.0,Quijos,150750.0,Baeza,True
+15.0,Napo,1507.0,Quijos,150751.0,Cosanga,False
+15.0,Napo,1507.0,Quijos,150752.0,Cuyuja,False
+15.0,Napo,1507.0,Quijos,150753.0,Papallacta,False
+15.0,Napo,1507.0,Quijos,150754.0,San Francisco De Borja (Virgilio Davila),False
+15.0,Napo,1507.0,Quijos,150756.0,Sumaco,False
+15.0,Napo,1509.0,Carlos Julio Arosemena Tola,150950.0,Carlos Julio Arosemena Tola,True
+16.0,Pastaza,1601.0,Pastaza,160150.0,Puyo,True
+16.0,Pastaza,1601.0,Pastaza,160152.0,Canelos,False
+16.0,Pastaza,1601.0,Pastaza,160154.0,Diez De Agosto,False
+16.0,Pastaza,1601.0,Pastaza,160155.0,Fatima,False
+16.0,Pastaza,1601.0,Pastaza,160156.0,Montalvo (Andoas),False
+16.0,Pastaza,1601.0,Pastaza,160157.0,Pomona,False
+16.0,Pastaza,1601.0,Pastaza,160158.0,Rio Corrientes,False
+16.0,Pastaza,1601.0,Pastaza,160159.0,Rio Tigre,False
+16.0,Pastaza,1601.0,Pastaza,160161.0,Sarayacu,False
+16.0,Pastaza,1601.0,Pastaza,160162.0,Simon Bolivar (Cab. En Mushullacta),False
+16.0,Pastaza,1601.0,Pastaza,160163.0,Tarqui,False
+16.0,Pastaza,1601.0,Pastaza,160164.0,Teniente Hugo Ortiz,False
+16.0,Pastaza,1601.0,Pastaza,160165.0,Veracruz (Indillama) (Cab. En Indillama),False
+16.0,Pastaza,1601.0,Pastaza,160166.0,El Triunfo,False
+16.0,Pastaza,1602.0,Mera,160250.0,Mera,True
+16.0,Pastaza,1602.0,Mera,160251.0,Madre Tierra,False
+16.0,Pastaza,1602.0,Mera,160252.0,Shell,False
+16.0,Pastaza,1603.0,Santa Clara,160350.0,Santa Clara,True
+16.0,Pastaza,1603.0,Santa Clara,160351.0,San Jose,False
+16.0,Pastaza,1604.0,Arajuno,160450.0,Arajuno,True
+16.0,Pastaza,1604.0,Arajuno,160451.0,Curaray,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170101.0,Belisario Quevedo,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170102.0,Carcelén,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170103.0,Centro Histórico,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170104.0,Cochapamba,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170105.0,Comité Del Pueblo,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170106.0,Cotocollao,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170107.0,Chilibulo,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170108.0,Chillogallo,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170109.0,Chimbacalle,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170110.0,El Condado,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170111.0,Guamaní,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170112.0,Iñaquito,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170113.0,Itchimbia,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170114.0,Jipijapa,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170115.0,Kennedy,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170116.0,La Argelia,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170117.0,La Concepción,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170118.0,La Ecuatoriana,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170119.0,La Ferroviaria,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170120.0,La Libertad,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170121.0,La Magdalena,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170122.0,La Mena,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170123.0,Mariscal Sucre,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170124.0,Ponceano,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170125.0,Puengasí,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170126.0,Quitumbe,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170127.0,Rumipamba,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170128.0,San Bartolo,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170129.0,San Isidro Del Inca,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170130.0,San Juan,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170131.0,Solanda,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170132.0,Turubamba,True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170150.0,"Quito Distrito Metropolitano, Cabecera Cantonal, Capital Provincial Y De La Republica Del Ecuador",True
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170151.0,Alangasi,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170152.0,Amaguaña,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170153.0,Atahualpa (Habaspamba),False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170154.0,Calacali,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170155.0,Calderon (Carapungo),False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170156.0,Conocoto,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170157.0,Cumbaya,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170158.0,Chavezpamba,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170159.0,Checa (Chilpa),False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170160.0,El Quinche,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170161.0,Gualea,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170162.0,Guangopolo,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170163.0,Guayllabamba,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170164.0,La Merced,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170165.0,Llano Chico,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170166.0,Lloa,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170168.0,Nanegal,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170169.0,Nanegalito,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170170.0,Nayon,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170171.0,Nono,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170172.0,Pacto,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170174.0,Perucho,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170175.0,Pifo,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170176.0,Pintag,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170177.0,Pomasqui,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170178.0,Puellaro,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170179.0,Puembo,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170180.0,San Antonio,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170181.0,San Jose De Minas,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170183.0,Tababela,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170184.0,Tumbaco,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170185.0,Yaruqui,False
+17.0,Pichincha,1701.0,Distrito Metropolitano De Quito,170186.0,Zambiza,False
+17.0,Pichincha,1702.0,Cayambe,170202.0,Cayambe,True
+17.0,Pichincha,1702.0,Cayambe,170203.0,Juan Montalvo,True
+17.0,Pichincha,1702.0,Cayambe,170250.0,"Cayambe, Cabecera Cantonal",True
+17.0,Pichincha,1702.0,Cayambe,170251.0,Ascazubi,False
+17.0,Pichincha,1702.0,Cayambe,170252.0,Cangahua,False
+17.0,Pichincha,1702.0,Cayambe,170253.0,Olmedo (Pesillo),False
+17.0,Pichincha,1702.0,Cayambe,170254.0,Oton,False
+17.0,Pichincha,1702.0,Cayambe,170255.0,Santa Rosa De Cuzubamba,False
+17.0,Pichincha,1702.0,Cayambe,170256.0,San Jose De Ayora,False
+17.0,Pichincha,1703.0,Mejia,170350.0,Machachi,True
+17.0,Pichincha,1703.0,Mejia,170351.0,Aloag,False
+17.0,Pichincha,1703.0,Mejia,170352.0,Aloasi,False
+17.0,Pichincha,1703.0,Mejia,170353.0,Cutuglahua,False
+17.0,Pichincha,1703.0,Mejia,170354.0,El Chaupi,False
+17.0,Pichincha,1703.0,Mejia,170355.0,Manuel Cornejo Astorga (Tandapi),False
+17.0,Pichincha,1703.0,Mejia,170356.0,Tambillo,False
+17.0,Pichincha,1703.0,Mejia,170357.0,Uyumbicho,False
+17.0,Pichincha,1704.0,Pedro Moncayo,170450.0,Tabacundo,True
+17.0,Pichincha,1704.0,Pedro Moncayo,170451.0,La Esperanza,False
+17.0,Pichincha,1704.0,Pedro Moncayo,170452.0,Malchingui,False
+17.0,Pichincha,1704.0,Pedro Moncayo,170453.0,Tocachi,False
+17.0,Pichincha,1704.0,Pedro Moncayo,170454.0,Tupigachi,False
+17.0,Pichincha,1705.0,Rumiñahui,170501.0,Sangolquí,True
+17.0,Pichincha,1705.0,Rumiñahui,170502.0,San Pedro De Taboada,True
+17.0,Pichincha,1705.0,Rumiñahui,170503.0,San Rafael,True
+17.0,Pichincha,1705.0,Rumiñahui,170550.0,"Sangolqui, Cabecera Cantonal",True
+17.0,Pichincha,1705.0,Rumiñahui,170551.0,Cotogchoa,False
+17.0,Pichincha,1705.0,Rumiñahui,170552.0,Rumipamba,False
+17.0,Pichincha,1707.0,San Miguel De Los Bancos,170750.0,San Miguel De Los Bancos,True
+17.0,Pichincha,1707.0,San Miguel De Los Bancos,170751.0,Mindo,False
+17.0,Pichincha,1708.0,Pedro Vicente Maldonado,170850.0,Pedro Vicente Maldonado,True
+17.0,Pichincha,1709.0,Puerto Quito,170950.0,Puerto Quito,True
+18.0,Tungurahua,1801.0,Ambato,180101.0,Atocha  Ficoa,True
+18.0,Tungurahua,1801.0,Ambato,180102.0,Celiano Monge,True
+18.0,Tungurahua,1801.0,Ambato,180103.0,Huachi Chico,True
+18.0,Tungurahua,1801.0,Ambato,180104.0,Huachi Loreto,True
+18.0,Tungurahua,1801.0,Ambato,180105.0,La Merced,True
+18.0,Tungurahua,1801.0,Ambato,180106.0,La Península,True
+18.0,Tungurahua,1801.0,Ambato,180107.0,Matriz,True
+18.0,Tungurahua,1801.0,Ambato,180108.0,Pishilata,True
+18.0,Tungurahua,1801.0,Ambato,180109.0,San Francisco,True
+18.0,Tungurahua,1801.0,Ambato,180150.0,"Ambato, Cabecera Cantonal Y Capital Provincial",True
+18.0,Tungurahua,1801.0,Ambato,180151.0,Ambatillo,False
+18.0,Tungurahua,1801.0,Ambato,180152.0,Atahualpa (Chisalata),False
+18.0,Tungurahua,1801.0,Ambato,180153.0,Augusto N. Martinez (Mundugleo),False
+18.0,Tungurahua,1801.0,Ambato,180154.0,Constantino Fernandez (Cab. En Cullitahua),False
+18.0,Tungurahua,1801.0,Ambato,180155.0,Huachi Grande,False
+18.0,Tungurahua,1801.0,Ambato,180156.0,Izamba,False
+18.0,Tungurahua,1801.0,Ambato,180157.0,Juan Benigno Vela,False
+18.0,Tungurahua,1801.0,Ambato,180158.0,Montalvo,False
+18.0,Tungurahua,1801.0,Ambato,180159.0,Pasa,False
+18.0,Tungurahua,1801.0,Ambato,180160.0,Picaigua,False
+18.0,Tungurahua,1801.0,Ambato,180161.0,Pilaguin (Pilahuin),False
+18.0,Tungurahua,1801.0,Ambato,180162.0,Quisapincha (Quizapincha),False
+18.0,Tungurahua,1801.0,Ambato,180163.0,San Bartolome De Pinllo,False
+18.0,Tungurahua,1801.0,Ambato,180164.0,San Fernando (Pasa San Fernando),False
+18.0,Tungurahua,1801.0,Ambato,180165.0,Santa Rosa,False
+18.0,Tungurahua,1801.0,Ambato,180166.0,Totoras,False
+18.0,Tungurahua,1801.0,Ambato,180167.0,Cunchibamba,False
+18.0,Tungurahua,1801.0,Ambato,180168.0,Unamuncho,False
+18.0,Tungurahua,1802.0,Baños De Agua Santa,180250.0,Baños De Agua Santa,True
+18.0,Tungurahua,1802.0,Baños De Agua Santa,180251.0,Lligua,False
+18.0,Tungurahua,1802.0,Baños De Agua Santa,180252.0,Rio Negro,False
+18.0,Tungurahua,1802.0,Baños De Agua Santa,180253.0,Rio Verde,False
+18.0,Tungurahua,1802.0,Baños De Agua Santa,180254.0,Ulba,False
+18.0,Tungurahua,1803.0,Cevallos,180350.0,Cevallos,True
+18.0,Tungurahua,1804.0,Mocha,180450.0,Mocha,True
+18.0,Tungurahua,1804.0,Mocha,180451.0,Pinguili,False
+18.0,Tungurahua,1805.0,Patate,180550.0,Patate,True
+18.0,Tungurahua,1805.0,Patate,180551.0,El Triunfo,False
+18.0,Tungurahua,1805.0,Patate,180552.0,Los Andes (Cab. En Poatug),False
+18.0,Tungurahua,1805.0,Patate,180553.0,Sucre (Cab. En Sucre-Patate Urcu),False
+18.0,Tungurahua,1806.0,Quero,180650.0,Quero,True
+18.0,Tungurahua,1806.0,Quero,180651.0,Rumipamba,False
+18.0,Tungurahua,1806.0,Quero,180652.0,Yanayacu- Mochapata (Cab. En Yanayacu),False
+18.0,Tungurahua,1807.0,Pelileo,180701.0,Pelileo,True
+18.0,Tungurahua,1807.0,Pelileo,180702.0,Pelileo Grande,True
+18.0,Tungurahua,1807.0,Pelileo,180750.0,"Pelileo, Cabecera Cantonal",True
+18.0,Tungurahua,1807.0,Pelileo,180751.0,Benitez (Pachanlica),False
+18.0,Tungurahua,1807.0,Pelileo,180752.0,Bolivar,False
+18.0,Tungurahua,1807.0,Pelileo,180753.0,Cotalo,False
+18.0,Tungurahua,1807.0,Pelileo,180754.0,Chiquicha (Cab. En Chiquicha Grande),False
+18.0,Tungurahua,1807.0,Pelileo,180755.0,El Rosario (Rumichaca),False
+18.0,Tungurahua,1807.0,Pelileo,180756.0,Garcia Moreno (Chumaqui),False
+18.0,Tungurahua,1807.0,Pelileo,180757.0,Guambalo (Huambalo),False
+18.0,Tungurahua,1807.0,Pelileo,180758.0,Salasaca,False
+18.0,Tungurahua,1808.0,Pillaro,180801.0,Ciudad Nueva,True
+18.0,Tungurahua,1808.0,Pillaro,180802.0,Píllaro,True
+18.0,Tungurahua,1808.0,Pillaro,180851.0,Baquerizo Moreno,False
+18.0,Tungurahua,1808.0,Pillaro,180852.0,Emilio Maria Teran (Rumipamba),False
+18.0,Tungurahua,1808.0,Pillaro,180853.0,Marcos Espinel (Chacata),False
+18.0,Tungurahua,1808.0,Pillaro,180854.0,Presidente Urbina (Chagrapamba -Patzucul),False
+18.0,Tungurahua,1808.0,Pillaro,180855.0,San Andres,False
+18.0,Tungurahua,1808.0,Pillaro,180856.0,San Jose De Poalo,False
+18.0,Tungurahua,1808.0,Pillaro,180857.0,San Miguelito,False
+18.0,Tungurahua,1809.0,Tisaleo,180950.0,Tisaleo,True
+18.0,Tungurahua,1809.0,Tisaleo,180951.0,Quinchicoto,False
+19.0,Zamora Chinchipe,1901.0,Zamora,190101.0,El Limón,True
+19.0,Zamora Chinchipe,1901.0,Zamora,190102.0,Zamora,True
+19.0,Zamora Chinchipe,1901.0,Zamora,190151.0,Cumbaratza,False
+19.0,Zamora Chinchipe,1901.0,Zamora,190152.0,Guadalupe,False
+19.0,Zamora Chinchipe,1901.0,Zamora,190153.0,Imbana (La Victoria De Imbana),False
+19.0,Zamora Chinchipe,1901.0,Zamora,190155.0,Sabanilla,False
+19.0,Zamora Chinchipe,1901.0,Zamora,190156.0,Timbara,False
+19.0,Zamora Chinchipe,1901.0,Zamora,190158.0,San Carlos De Las Minas,False
+19.0,Zamora Chinchipe,1902.0,Chinchipe,190250.0,Zumba,True
+19.0,Zamora Chinchipe,1902.0,Chinchipe,190251.0,Chito,False
+19.0,Zamora Chinchipe,1902.0,Chinchipe,190252.0,El Chorro,False
+19.0,Zamora Chinchipe,1902.0,Chinchipe,190254.0,La Chonta,False
+19.0,Zamora Chinchipe,1902.0,Chinchipe,190259.0,San Andres,False
+19.0,Zamora Chinchipe,1903.0,Nangaritza,190350.0,Guayzimi,True
+19.0,Zamora Chinchipe,1903.0,Nangaritza,190351.0,Zurmi,False
+19.0,Zamora Chinchipe,1903.0,Nangaritza,190352.0,Nuevo Paraiso,False
+19.0,Zamora Chinchipe,1904.0,Yacuambi,190450.0,28 De Mayo (San Jose De Yacuambi),True
+19.0,Zamora Chinchipe,1904.0,Yacuambi,190451.0,La Paz,False
+19.0,Zamora Chinchipe,1904.0,Yacuambi,190452.0,Tutupali,False
+19.0,Zamora Chinchipe,1905.0,Yantzaza,190550.0,Yantzaza (Yanzatza),True
+19.0,Zamora Chinchipe,1905.0,Yantzaza,190551.0,Chicaña,False
+19.0,Zamora Chinchipe,1905.0,Yantzaza,190553.0,Los Encuentros,False
+19.0,Zamora Chinchipe,1906.0,El Pangui,190650.0,El Pangui,True
+19.0,Zamora Chinchipe,1906.0,El Pangui,190651.0,El Guisme,False
+19.0,Zamora Chinchipe,1906.0,El Pangui,190652.0,Pachicutza,False
+19.0,Zamora Chinchipe,1906.0,El Pangui,190653.0,Tundayme,False
+19.0,Zamora Chinchipe,1907.0,Centinela Del Condor,190750.0,Zumbi,True
+19.0,Zamora Chinchipe,1907.0,Centinela Del Condor,190752.0,Triunfo-Dorado,False
+19.0,Zamora Chinchipe,1907.0,Centinela Del Condor,190753.0,Panguintza,False
+19.0,Zamora Chinchipe,1908.0,Palanda,190850.0,Palanda,True
+19.0,Zamora Chinchipe,1908.0,Palanda,190851.0,El Porvenir Del Carmen,False
+19.0,Zamora Chinchipe,1908.0,Palanda,190852.0,San Francisco Del Vergel,False
+19.0,Zamora Chinchipe,1908.0,Palanda,190853.0,Valladolid,False
+19.0,Zamora Chinchipe,1908.0,Palanda,190854.0,La Canela,False
+19.0,Zamora Chinchipe,1909.0,Paquisha,190950.0,Paquisha,True
+19.0,Zamora Chinchipe,1909.0,Paquisha,190951.0,Bellavista,False
+19.0,Zamora Chinchipe,1909.0,Paquisha,190952.0,Nuevo Quito,False
+20.0,Galapagos,2001.0,San Cristobal,200150.0,Puerto Baquerizo Moreno,True
+20.0,Galapagos,2001.0,San Cristobal,200151.0,El Progreso,False
+20.0,Galapagos,2001.0,San Cristobal,200152.0,Isla Santa Mar-A (Floreana) (Cab. En  Pto. Velasco Ibarra),False
+20.0,Galapagos,2002.0,Isabela,200250.0,Puerto Villamil,True
+20.0,Galapagos,2003.0,Santa Cruz,200350.0,Puerto Ayora,True
+20.0,Galapagos,2003.0,Santa Cruz,200351.0,Bellavista,False
+20.0,Galapagos,2003.0,Santa Cruz,200352.0,Santa Rosa,False
+21.0,Sucumbios,2101.0,Lago Agrio,210150.0,Nueva Loja,True
+21.0,Sucumbios,2101.0,Lago Agrio,210152.0,Dureno,False
+21.0,Sucumbios,2101.0,Lago Agrio,210153.0,General Farfan,False
+21.0,Sucumbios,2101.0,Lago Agrio,210155.0,El Eno,False
+21.0,Sucumbios,2101.0,Lago Agrio,210156.0,Pacayacu,False
+21.0,Sucumbios,2101.0,Lago Agrio,210157.0,Jambeli,False
+21.0,Sucumbios,2101.0,Lago Agrio,210158.0,Santa Cecilia,False
+21.0,Sucumbios,2101.0,Lago Agrio,210160.0,10 De Agosto,False
+21.0,Sucumbios,2102.0,Gonzalo Pizarro,210250.0,Lumbaqui,True
+21.0,Sucumbios,2102.0,Gonzalo Pizarro,210251.0,El Reventador,False
+21.0,Sucumbios,2102.0,Gonzalo Pizarro,210252.0,Gonzalo Pizarro,False
+21.0,Sucumbios,2102.0,Gonzalo Pizarro,210254.0,Puerto Libre,False
+21.0,Sucumbios,2103.0,Putumayo,210350.0,Puerto El Carmen Del Putumayo,True
+21.0,Sucumbios,2103.0,Putumayo,210351.0,Palma Roja,False
+21.0,Sucumbios,2103.0,Putumayo,210353.0,Puerto Rodriguez,False
+21.0,Sucumbios,2103.0,Putumayo,210354.0,Santa Elena,False
+21.0,Sucumbios,2104.0,Shushufindi,210450.0,Shushufindi,True
+21.0,Sucumbios,2104.0,Shushufindi,210451.0,Limoncocha,False
+21.0,Sucumbios,2104.0,Shushufindi,210452.0,Pañacocha,False
+21.0,Sucumbios,2104.0,Shushufindi,210453.0,San Roque (Cab. En San Vicente),False
+21.0,Sucumbios,2104.0,Shushufindi,210454.0,San Pedro De Los Cofanes,False
+21.0,Sucumbios,2104.0,Shushufindi,210455.0,Siete De Julio,False
+21.0,Sucumbios,2105.0,Sucumbios,210550.0,La Bonita,True
+21.0,Sucumbios,2105.0,Sucumbios,210551.0,El Playon De San Francisco,False
+21.0,Sucumbios,2105.0,Sucumbios,210552.0,La Sofia,False
+21.0,Sucumbios,2105.0,Sucumbios,210553.0,Rosa Florida,False
+21.0,Sucumbios,2105.0,Sucumbios,210554.0,Santa Barbara,False
+21.0,Sucumbios,2106.0,Cascales,210650.0,El Dorado De Cascales,True
+21.0,Sucumbios,2106.0,Cascales,210651.0,Santa Rosa De Sucumbios,False
+21.0,Sucumbios,2106.0,Cascales,210652.0,Sevilla,False
+21.0,Sucumbios,2107.0,Cuyabeno,210750.0,Tarapoa,True
+21.0,Sucumbios,2107.0,Cuyabeno,210751.0,Cuyabeno,False
+21.0,Sucumbios,2107.0,Cuyabeno,210752.0,Aguas Negras,False
+22.0,Orellana,2201.0,Orellana,220150.0,Puerto Francisco De Orellana (El Coca),True
+22.0,Orellana,2201.0,Orellana,220151.0,Dayuma,False
+22.0,Orellana,2201.0,Orellana,220152.0,Taracoa (Nueva Esperanza: Yuca),False
+22.0,Orellana,2201.0,Orellana,220153.0,Alejandro Labaka,False
+22.0,Orellana,2201.0,Orellana,220154.0,El Dorado,False
+22.0,Orellana,2201.0,Orellana,220155.0,El Eden,False
+22.0,Orellana,2201.0,Orellana,220156.0,Garcia Moreno,False
+22.0,Orellana,2201.0,Orellana,220157.0,Ines Arango (Cab. En Western),False
+22.0,Orellana,2201.0,Orellana,220158.0,La Belleza,False
+22.0,Orellana,2201.0,Orellana,220159.0,Nuevo Paraiso (Cab. En Union ),False
+22.0,Orellana,2201.0,Orellana,220160.0,San Jose De Guayusa,False
+22.0,Orellana,2201.0,Orellana,220161.0,San Luis De Armenia,False
+22.0,Orellana,2202.0,Aguarico,220250.0,Nuevo Rocafuerte,True
+22.0,Orellana,2202.0,Aguarico,220251.0,Capitan Augusto Rivadeneyra,False
+22.0,Orellana,2202.0,Aguarico,220252.0,Cononaco,False
+22.0,Orellana,2202.0,Aguarico,220253.0,Santa Maria De Huiririma,False
+22.0,Orellana,2202.0,Aguarico,220254.0,Tiputini,False
+22.0,Orellana,2202.0,Aguarico,220255.0,Yasuni,False
+22.0,Orellana,2203.0,La Joya De Los Sachas,220350.0,La Joya De Los Sachas,True
+22.0,Orellana,2203.0,La Joya De Los Sachas,220351.0,Enokanqui,False
+22.0,Orellana,2203.0,La Joya De Los Sachas,220352.0,Pompeya,False
+22.0,Orellana,2203.0,La Joya De Los Sachas,220353.0,San Carlos,False
+22.0,Orellana,2203.0,La Joya De Los Sachas,220354.0,San Sebastian Del Coca,False
+22.0,Orellana,2203.0,La Joya De Los Sachas,220355.0,Lago San Pedro,False
+22.0,Orellana,2203.0,La Joya De Los Sachas,220356.0,Rumipamba,False
+22.0,Orellana,2203.0,La Joya De Los Sachas,220357.0,Tres De Noviembre,False
+22.0,Orellana,2203.0,La Joya De Los Sachas,220358.0,Union Milagreña,False
+22.0,Orellana,2204.0,Loreto,220450.0,Loreto,True
+22.0,Orellana,2204.0,Loreto,220451.0,Avila (Cab. En Huiruno),False
+22.0,Orellana,2204.0,Loreto,220452.0,Puerto Murialdo,False
+22.0,Orellana,2204.0,Loreto,220453.0,San Jose De Payamino,False
+22.0,Orellana,2204.0,Loreto,220454.0,San Jose De Dahuano,False
+22.0,Orellana,2204.0,Loreto,220455.0,San Vicente De Huaticocha,False
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230101.0,Abraham Calazacón,True
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230102.0,Bombolí,True
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230103.0,Chiguilpe,True
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230104.0,Río Toachi,True
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230105.0,Río Verde,True
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230106.0,Santo Domingo De Los Colorados,True
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230107.0,Zaracay,True
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230150.0,"Santo Domingo De Los Colorados, Cabecera Cantonal",True
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230151.0,Alluriquin,False
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230152.0,Puerto Limon,False
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230153.0,Luz De America,False
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230154.0,San Jacinto Del Bua,False
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230155.0,Valle Hermoso,False
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230156.0,El Esfuerzo,False
+23.0,Santo Domingo De Los Tsachilas,2301.0,Santo Domingo,230157.0,Santa Maria Del Toachi,False
+23.0,Santo Domingo De Los Tsachilas,2302.0,La Concordia,230250.0,La Concordia,True
+23.0,Santo Domingo De Los Tsachilas,2302.0,La Concordia,230251.0,Monterrey,False
+23.0,Santo Domingo De Los Tsachilas,2302.0,La Concordia,230252.0,La Villegas,False
+23.0,Santo Domingo De Los Tsachilas,2302.0,La Concordia,230253.0,Plan Piloto,False
+24.0,Santa Elena,2401.0,Santa Elena,240101.0,Ballenita,True
+24.0,Santa Elena,2401.0,Santa Elena,240102.0,Santa Elena,True
+24.0,Santa Elena,2401.0,Santa Elena,240150.0,"Santa Elena, Cabecera Cantonal",True
+24.0,Santa Elena,2401.0,Santa Elena,240151.0,Atahualpa,False
+24.0,Santa Elena,2401.0,Santa Elena,240152.0,Colonche,False
+24.0,Santa Elena,2401.0,Santa Elena,240153.0,Chanduy,False
+24.0,Santa Elena,2401.0,Santa Elena,240154.0,Manglaralto,False
+24.0,Santa Elena,2401.0,Santa Elena,240155.0,Simon Bolivar (Julio Moreno),False
+24.0,Santa Elena,2401.0,Santa Elena,240156.0,San Jose De Ancon,False
+24.0,Santa Elena,2402.0,La Libertad,240250.0,La Libertad,True
+24.0,Santa Elena,2403.0,Salinas,240301.0,Carlos Espinoza Larrea,True
+24.0,Santa Elena,2403.0,Salinas,240302.0,General Alberto Enríquez Gallo,True
+24.0,Santa Elena,2403.0,Salinas,240303.0,Vicente  Rocafuerte,True
+24.0,Santa Elena,2403.0,Salinas,240304.0,Santa Rosa,True
+24.0,Santa Elena,2403.0,Salinas,240350.0,"Salinas, Cabecera Cantonal",True
+24.0,Santa Elena,2403.0,Salinas,240351.0,Anconcito,False
+24.0,Santa Elena,2403.0,Salinas,240352.0,Jose Luis Tamayo (Muey),False
+90.0,Zona En Estudio,9001.0,Las Golondrinas,900151.0,Las Golondrinas,False
+90.0,Zona En Estudio,9003.0,Zonas No Delimitadas,900351.0,Manga Del Cura,False
+90.0,Zona En Estudio,9004.0,El Piedrero,900451.0,El Piedrero,False
+90.0,Zona En Estudio,9005.0,Santa Rosa De Agua Clara,900551.0,Santa Rosa De Agua Clara,False
+90.0,Zona En Estudio,9006.0,Juval,900651.0,Juval,False
+90.0,Zona En Estudio,9007.0,Abdon Calderon,900751.0,Abdon Calderon,False
+,,,,,,False
